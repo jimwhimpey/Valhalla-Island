@@ -9,12 +9,9 @@ layout: default
 			{% unless post.title == 'No Title' %}
 				<h2 class="entry-title">{{ page.title }}</h2>
 			{% endunless %}
-	    {% if page.date %}<p class="meta">{% include post/date.html %}{{ time }}</p>{% endif %}
 	  </header>
 	  {% endif %}
 	  {{ content }}
-    {% if page.date or page.author %}<p class="date">
-      {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}
-    </p>{% endif %}
+		
 	</article>
 </div>
