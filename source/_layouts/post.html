@@ -6,21 +6,42 @@ single: true
 <div>
 	<article class="hentry" role="article">
 	  {% include article.html %}
-	  <footer>
-	    <p class="meta">
-	      {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}
-	    </p>
-	    {% unless page.sharing == false %}
-	      {% include post/sharing.html %}
-	    {% endunless %}
-	    <p class="meta">
-	      {% if page.previous.url %}
-	        <a class="basic-alignment left" href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&laquo; {{page.previous.title}}</a>
-	      {% endif %}
-	      {% if page.next.url %}
-	        <a class="basic-alignment right" href="{{page.next.url}}" title="next Post: {{page.next.title}}">{{page.next.title}} &raquo;</a>
-	      {% endif %}
-	    </p>
-	  </footer>
+    <p class="date">
+      {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}
+    </p>
 	</article>
+	<div class="contact">No public comments but you can email me: <script type="text/javascript">
+		//<![CDATA[
+
+		function hiveware_enkoder(){var i,j,x,y,x=
+		"x=\"}B'%22E*7:?@;l::;::@;@?@;A;>><;l=k::;>;?;?;>;<;>>>;@;>;A;>;;;?;>><;?;=" +
+		";>><;8;>;=;>;=;>;?;A;<>=;?;<;8;>><;:>=;?;>;=;:;?;?;:>=;>;;;>;A;?;>>>;>;<;>" +
+		";=><;;>;;:;@;:;:>>;>;:;;>;;9;;>=;>;9;:;:;:;:;8;>;@;A;;>:;?;:;>;;;8;;;=;>;>" +
+		">:=k::;j;;><;=?A;l:?>;;:;::?;j>>;>><;>>n?::@;9;>;A>A;l;8;>>;;?;j>A;k;<;>>>" +
+		"?@:m>k;;>9;>>=>m>?>9;>;A?<>@;j;>><;?>A:j;l;?;>;@;::A?j;>;A;>?A:j;l><;?;8?=" +
+		">m>=;>;=;??;>;>9;A;<;8?8>=:@;>><;>:?:=:?;=;:>=:j?@:m;>;;;>?;?=>:>>;>><?;?<" +
+		"?:;=>;;::@>A:k;:;;>=;::A:A;>>9;>;j?l?A::;j>i;l>=?>>9>k:@?@:m>;>@>9?:<9?<:@" +
+		";8:A:A;j?@;l?@:m?;?=>:?;?<?::@;9:A;j?A;l:?:?;j>>>n?::@>A;l;8;j>A;k?@:m>k>=" +
+		">m>??<>@;j>A:j;l;>:A?j?A:j;l?@:m?;?=>:?;?<?::@>A:k;;:A;j?l>>>n?::@>A;l;;;j" +
+		">A;k?@:m>k>=>m>??<>@;j>A:j;l;>:A?j?A:j;l?@:m?;?=>:?;?<?::@>A:k;;:A;j?l?A;l" +
+		"?A:m?;?=>:?;?<?::@>i:A;j*7:C#E//Cnwz0qE8CqD%226tmvo|pCq3E:1%25#3E}vm{kixm0" +
+		"/-/3%226{}j{|z0q4:11C*77#'@~B,,@}Bzsjxhfuj-}.@ktw-nB5@nA}3qjslym@n00.%22oB" +
+		"}3hmfwHtijFy-n.28@nk-oA87.o0B>9@~0BXywnsl3kwtrHmfwHtij-o.$~\";y='';x=unesc" +
+		"ape(x);for(i=0;i<x.length;i++){j=x.charCodeAt(i)-5;if(j<32)j+=94;y+=String" +
+		".fromCharCode(j)}y";
+		while(x=eval(x));}hiveware_enkoder();
+
+		//]]>
+		</script>
+	</div>
+  <div class="pagination">
+    {% if page.previous.url %}
+      <a class="prev" href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&larr; Older</a>
+    {% endif %}
+    {% if page.next.url %}
+      <a class="next" href="{{page.next.url}}" title="next Post: {{page.next.title}}">Newer &rarr;</a>
+    {% endif %}
+  </div>
+	
+	
 </div>

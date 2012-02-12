@@ -1,8 +1,14 @@
 {% unless page.no_header %}
   <header>
-		{% unless post.title == 'No Title' %}
-			<h2 class="entry-title">{{ post.title }}</h1>
-		{% endunless %}
+    {% if index %}
+			{% unless post.title == 'No Title' %}
+      	<h2 class="entry-title">{{ post.title }}</h2>
+			{% endunless %}
+    {% else %}
+			{% unless page.title == 'No Title' %}
+				<h2 class="entry-title">{{ page.title }}</h2>
+			{% endunless %}
+    {% endif %}
   </header>
 {% endunless %}
 {% if index %}

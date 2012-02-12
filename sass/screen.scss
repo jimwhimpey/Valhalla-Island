@@ -45,8 +45,8 @@
 			font-weight: bold;
 			font-size: 35px;
 			margin: 0 0 15px 0;
-			h1 a { -webkit-transition: all 0.5s; border-bottom: none; }
-			h1 a:hover { color: #359006; }
+			a { border-bottom: none; -webkit-transition: all 0.5s; }
+			a:hover { color: #359006; }
 		}
 	  .blurb {
 			font: normal 14px/1.6em "Droid", Georgia, serif;
@@ -71,12 +71,22 @@
 			margin: 0 0 16px 0;
 			line-height: 1.5em;
 		}
-		ul li {
-			font-family: "Droid", Georgia, serif;
-			font-size: 13px;
+		ul {
+			margin: 0 0 60px 0;
+			li {
+				font-family: "Droid", Georgia, serif;
+				font-size: 13px;
+				margin: 0 0 10px 0;
+				a { color: #A1A1A1; border-bottom: 1px solid #787878; }
+				a:hover { color: #787878; }
+			}
+		}
+		.credit {
 			margin: 0 0 10px 0;
-			ul li a { color: #A1A1A1; border-bottom: 1px solid #787878; }
-			ul li a:hover { color: #787878; }
+			font-size: 16px;
+			color: #666;
+			a { color: #64486B; border-bottom: 1px solid #263347; }
+			a:hover { color: #263347; }
 		}
 	}
 	
@@ -125,6 +135,7 @@
 			.date {
 				font-family: "Droid Italic", Georgia, serif;
 				font-size: 13px;
+				color: #999;
 				a { color: #999; text-decoration: none; border-bottom: none; }
 				a:hover {color: #999; border-bottom: 1px solid #111; }
 			}
@@ -133,6 +144,7 @@
 				padding: 0 0 0 15px;
 				border-left: 1px solid #999;
 				font-family: "Droid Italic", Georgia, serif;
+				color: #666;
 				blockquote p { color: #666; }
 			}
 		  h3 {
@@ -198,4 +210,11 @@
 		}
 		.next { right: 0; text-align: right; }
 		.prev { left: 0; text-align: left; }
+		.archive {
+			left: 152px;
+			display: block;
+			text-align: center;
+			width: 200px;
+			margin: 0 auto;
+		}
 	}
