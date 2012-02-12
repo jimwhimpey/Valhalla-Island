@@ -133,11 +133,15 @@
 			}
 			.date {
 				font-family: 'PT Serif', Georgia, serif;
-				font-weight: bold;
-				font-size: 15px;
+				font-weight: normal;
+				font-size: 14px;
 				color: #999;
 				a { color: #999; text-decoration: none; border-bottom: none; }
 				a:hover {color: #999; border-bottom: 1px solid #111; }
+				span { 
+					font-size: 1.2em;
+					padding-righ: 6px;
+				}
 			}
 			blockquote {
 				margin: 0 0 15px 25px;
