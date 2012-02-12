@@ -22,10 +22,6 @@
 			FONT FACE EMBEDDING
 	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
 	
-	@font-face { font-family: "Showcard"; src: url('http://static.tumblr.com/ttz4bff/4vfkx1tk0/signpainter-houseshowcard.ttf'); } 
-	@font-face { font-family: "Droid"; src: url('http://static.tumblr.com/ttz4bff/W7Xkx1tip/droidserif-regular.ttf'); } 
-	@font-face { font-family: "Droid Bold"; src: url('http://static.tumblr.com/ttz4bff/B3lkx1ti2/droidserif-bold.ttf'); } 
-	@font-face { font-family: "Droid Italic"; src: url('http://static.tumblr.com/ttz4bff/KO2kx1tje/droidserif-italic.ttf'); }
 	@font-face { font-family: "Lavanderia"; src: url('http://static.jimwhimpey.com/fonts/Lavanderia-Sturdy.otf'); }
 
 
@@ -50,7 +46,7 @@
 			a:hover { color: #359006; }
 		}
 	  .blurb {
-			font: normal 14px/1.6em "Droid", Georgia, serif;
+			font: normal 16px/1.6em 'PT Serif', Georgia, serif;
 			margin: 0 0 15px 0;
 			color: #3A2214;
 		}
@@ -67,16 +63,17 @@
 			}
 		}
 		h2 {
-			font-family: "Droid Bold", Georgia, serif;
-			font-size: 14px;
+			font-family: 'PT Serif', Georgia, serif;
+			font-weight: bold;
+			font-size: 16px;
 			margin: 0 0 16px 0;
 			line-height: 1.5em;
 		}
 		ul {
 			margin: 0 0 60px 0;
 			li {
-				font-family: "Droid", Georgia, serif;
-				font-size: 13px;
+				font-family: 'PT Serif', Georgia, serif;
+				font-size: 15px;
 				margin: 0 0 10px 0;
 				a { color: #A1A1A1; border-bottom: 1px solid #787878; }
 				a:hover { color: #787878; }
@@ -84,7 +81,7 @@
 		}
 		.credit {
 			margin: 0 0 10px 0;
-			font-size: 16px;
+			font-size: 18px;
 			color: #666;
 			a { color: #64486B; border-bottom: 1px solid #263347; }
 			a:hover { color: #263347; }
@@ -115,27 +112,29 @@
 		  padding: 0 0 16px 0;
 		  margin: 0 0 30px 0;
 		  border-bottom: 1px dotted #999;
-		  font-family: "Droid", Georgia, serif;
+		  font-family: 'PT Serif', Georgia, serif;
 		  position: relative;
 		  overflow: hidden;
 			a { @include links; }
-			strong { font-family: "Droid Bold", Georgia, serif; }
-			em { font-family: "Droid Italic", Georgia, serif; }
+			strong { font-family: 'PT Serif', Georgia, serif; font-weight: bold; }
+			em { font-family: 'PT Serif', Georgia, serif; font-style: italic; }
 			h2 {
-				font-family: "Droid Bold", Georgia, serif;
-				font-size: 18px;
+				font-family: 'PT Serif', Georgia, serif;
+				font-weight: bold;
+				font-size: 20px;
 				margin: 0 0 16px 0;
 				line-height: 1.5em;
 			}
 			p, ul, ol, blockquote, .source {
-				font-size: 14px;
+				font-size: 16px;
 				line-height: 1.6em;
 				color: #111;
 				margin: 0 0 14px 0;
 			}
 			.date {
-				font-family: "Droid Italic", Georgia, serif;
-				font-size: 13px;
+				font-family: 'PT Serif', Georgia, serif;
+				font-weight: bold;
+				font-size: 15px;
 				color: #999;
 				a { color: #999; text-decoration: none; border-bottom: none; }
 				a:hover {color: #999; border-bottom: 1px solid #111; }
@@ -144,13 +143,15 @@
 				margin: 0 0 15px 25px;
 				padding: 0 0 0 15px;
 				border-left: 1px solid #999;
-				font-family: "Droid Italic", Georgia, serif;
+				font-family: 'PT Serif', Georgia, serif;
+				font-style: italic;
 				color: #666;
 				blockquote p { color: #666; }
 			}
 		  h3 {
-		 		font-size: 15px;
-		 		font-family: "Droid Bold", Georgia, serif;
+		 		font-size: 17px;
+				font-weight: bold;
+		 		font-family: 'PT Serif', Georgia, serif;
 		 		text-transform: uppercase;
 		 		letter-spacing: 0.1em;
 		 		margin: 26px 0 12px 0;
@@ -179,8 +180,8 @@
 		padding: 0 0 30px 0;
 		margin: 0 0 30px 0;
 		border-bottom: 1px dotted #999;
-		font-family: "Droid", Georgia, serif;
-		font-size: 13px;
+		font-family: 'PT Serif', Georgia, serif;
+		font-size: 15px;
 		color: #777;
 		a { @include links; }
 		}		
@@ -196,16 +197,17 @@
 		position: relative;
 		p {
 			text-align: center;
-			font-size: 14px;
-			font-family: "Droid", Georgia, serif;
+			font-size: 16px;
+			font-family: 'PT Serif', Georgia, serif;
 		}
 		a {
 			@include links;
 			position: absolute;
 			display: block;
 			width: 70px;
-			font-size: 15px;
-			font-family: "Droid Bold", Georgia, serif;
+			font-size: 17px;
+			font-family: 'PT Serif', Georgia, serif;
+			font-weight: bold;
 			border-bottom: none;
 			top: 0;
 		}
