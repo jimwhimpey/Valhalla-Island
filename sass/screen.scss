@@ -12,10 +12,10 @@
 	body { background: #F5F5F5; }
 	
 	  #main {
-		width: 846px;
-		overflow: hidden;
-		margin: 50px auto;
-		}
+			width: 846px;
+			overflow: hidden;
+			margin: 50px auto;
+			}
 			
 			
 /*  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -26,6 +26,7 @@
 	@font-face { font-family: "Droid"; src: url('http://static.tumblr.com/ttz4bff/W7Xkx1tip/droidserif-regular.ttf'); } 
 	@font-face { font-family: "Droid Bold"; src: url('http://static.tumblr.com/ttz4bff/B3lkx1ti2/droidserif-bold.ttf'); } 
 	@font-face { font-family: "Droid Italic"; src: url('http://static.tumblr.com/ttz4bff/KO2kx1tje/droidserif-italic.ttf'); }
+	@font-face { font-family: "Lavanderia"; src: url('http://static.jimwhimpey.com/fonts/Lavanderia-Sturdy.otf'); }
 
 
 /*  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -41,10 +42,10 @@
 		a { color: #2D7D06; text-decoration: none; border-bottom: 1px solid #246605; }
 		a:hover { color: #246605; }
 	  h1 {
-			font-family: "Showcard", Helvetica, sans-serif;
-			font-weight: bold;
-			font-size: 35px;
-			margin: 0 0 15px 0;
+			font-family: "Lavanderia", Helvetica, sans-serif;
+			font-size: 50px;
+			margin: 10px 0 15px 0;
+			text-shadow: 0 2px 0 #fff;
 			a { border-bottom: none; -webkit-transition: all 0.5s; }
 			a:hover { color: #359006; }
 		}
