@@ -172,6 +172,10 @@
 				border: 2px solid black;
 				&:hover { border: 2px solid #666; }
 			}
+			a img.no-border ,img.no-border {			
+				border: none;
+				&:hover { border: none; }
+			}
 		}
 		
 
