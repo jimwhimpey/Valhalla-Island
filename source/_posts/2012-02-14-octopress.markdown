@@ -28,6 +28,8 @@ I'd love to create some publicly available Octopress themes just as I did for Wo
 
 The only thing missing is a simple way to process images. I need something that I can easily pass through an original, have it resize to a small and a large, upload them to a server somewhere and return some Markdown pointing to the large surrounded by a link to the larger one. I'll write a simple script to do this for me and the result will be images decoupled from my publishing system.
 
+**Update**: I solved this problem with an [image resizing script](http://valhallaisland.com/blog/2012/octopress-image-resizer/).
+
 ### Conclusion
 
 I've been using Octopress for a week now and I've immediately noticed the blazing speed. I don't write much that gets big traffic but I can rest assured know that if I do it'll no doubt handle the load with room to spare. Another great advantage is the simple ability to use proper version control for the *whole* site, both the code that generates it and the generated blog. I love the whole workflow.
