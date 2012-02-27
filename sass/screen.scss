@@ -193,6 +193,7 @@
 		font-size: 15px;
 		color: #777;
 		a { @include links; }
+		p:first-child { margin-bottom: 5px; }
 		}		
 	
 
