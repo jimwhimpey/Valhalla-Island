@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Impressions"
+date: 2012-04-01 08:31
+---
+
+Twelve years ago I first started using a computer for general school work, typing up assignments and the like. I was using Microsoft Word on Windows 95. The language of either Word or the system was set to US English rather than British English which resulted in many incorrectly red underlined words. In the early days Word's list of known names for spellchecking purpose must have been much shorter because nearly every name would also get red underlined.
+
+It bothered me having something marked as wrong which I knew was right but Word had the ability to "Add word to dictionary" so that it was considered a correctly spelt word from then on. I was doing this a lot, too much it turned out. The last time I did it I got an error: "The custom learned words dictionary is full".
+
+I don't do it nearly as often any more as I know how to set my computer's locale and many more names (including smart things like those from my contact list) are included in the spell checking dictionary.
+
+But when I do, even though I'm using an operating system made by a completely different company, even though I'm using different text editing or page layout software, even though such a limited was likely stamped out of that software many versions ago, even though it's been *twelve years*, I still have a split second of hesitation before selecting the Learn spelling menu item.
