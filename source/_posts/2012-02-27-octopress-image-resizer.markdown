@@ -2,9 +2,8 @@
 layout: post
 title: "Octopress Image Resizer"
 date: 2012-02-27 21:05
+external-url: https://github.com/jimwhimpey/Blog-Image-Resizer
 ---
-
-[Octopress Image Resizer](https://github.com/jimwhimpey/Blog-Image-Resizer)
 
 I've been overwhelmingly happy with [Octopress](http://octopress.org/) since [the switch](http://valhallaisland.com/blog/2012/octopress/). There's just one gap: image resizing and uploading. I didn't realise how much I took this for granted with WordPress and Tumblr.
 
