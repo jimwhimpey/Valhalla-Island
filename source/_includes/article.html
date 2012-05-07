@@ -2,11 +2,19 @@
   <header>
     {% if index %}
 			{% unless post.title == 'No Title' %}
-      	<h2 class="entry-title">{{ post.title }}</h2>
+				{% if post.external-url %}
+	        <h2 class="entry-title"><a href="{{ post.external-url }}">{{ post.title }} &rarr;</a></h2>
+	      {% else %}
+	        <h2 class="entry-title">{{ post.title }}</h2>
+	      {% endif %}
 			{% endunless %}
     {% else %}
 			{% unless page.title == 'No Title' %}
-				<h2 class="entry-title">{{ page.title }}</h2>
+				{% if page.external-url %}
+	        <h2 class="entry-title"><a href="{{ page.external-url }}">{{ page.title }} &rarr;</a></h2>
+	      {% else %}
+	        <h2 class="entry-title">{{ page.title }}</h2>
+	      {% endif %}
 			{% endunless %}
     {% endif %}
   </header>

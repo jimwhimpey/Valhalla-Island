@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Money, Stress and The Cloud"
+date: 2012-05-07 19:17
+external-url: http://icelab.com.au/articles/money-stress-and-the-cloud/
+---
+
+Tim Riley's post about the way solving a difficult software development problem can interfere with your entire life struck a chord with me. Although Tim's problem was bigger than anything I've had to deal with, credit card processing on a client's website, the horrible feelings are the same.
+
+All software has bugs, the huge majority of them you accept and systematically work through. Others are on another level, unable to be fixed through regular debugging processes. Often they're complicated by the context of the code or an unfamiliar environment. These are those you can become *obsessed* with. When dealing with these I have an extremely difficult time thinking about anything else. I can't read, I can't talk to people, I'm unpleasant to be around. After hours without progress you go to bed thinking about it. Thinking about it makes you angry and frustrated but *you can't stop thinking about it*. You spend so long at the computer that you lose all perspective and follow paths that take you further from the solution. With each minute you spend banging your head against it you think less clearly and the possibility of solving the problem decreases. It is *frustrating*.
+
+The only way to overcome this roadblock is to get up, leave, distract yourself and come back with a fresh perspective and a clear mind. You know this is what you have to do but actually doing it is very difficult. It's difficult if other people depend on the solution, it's difficult because you feel like you're close (you aren't), it's difficult because you desperately want it fixed and out of your mind.
+
+Tim went through this while dealing with other external stresses. His post is a great insight for non-programmers on the darker side of software development.
