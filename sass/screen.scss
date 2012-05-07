@@ -126,22 +126,19 @@
 				line-height: 1.5em;
 			}
 			p, ul, ol, blockquote, .source {
-				font-size: 16px;
+				font-size: 17px;
 				line-height: 1.6em;
 				color: #111;
 				margin: 0 0 14px 0;
 			}
 			.date {
-				font-family: 'PT Serif', Georgia, serif;
+				font-family: Georgia, serif;
 				font-weight: normal;
-				font-size: 14px;
+				font-size: 16px;
 				color: #999;
 				a { color: #999; text-decoration: none; border-bottom: none; }
 				a:hover {color: #999; border-bottom: 1px solid #111; }
-				span { 
-					font-size: 1.2em;
-					padding-righ: 6px;
-				}
+				span { font-size: 1em; }
 			}
 			blockquote {
 				margin: 0 0 15px 25px;
