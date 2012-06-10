@@ -1,0 +1,18 @@
+---
+layout: post
+title: "The Future of Computing"
+date: 2012-06-10 17:45
+external-url: 
+---
+
+This afternoon a friend I was quite keen to chat to and catch up with came to my place to pick up some gear. He had to bring along his kids (3 and 5-years-old) so I quickly scanned around my single, 24-year-old guy, minimal apartment looking for something that might distract them for 20 minutes. I gave up looking.
+
+When they got here they darted directly at the iPad sitting on my couch and I thought "of course"!
+
+I sat down with them looking through my games for something they might like. Nothing. I asked if they knew of any good games and it turns out they *love* Monkey Maths. They watched as I searched the app store. They identified the Monkey Maths icon before I did. I downloaded the free app. It downloaded in 15 seconds and they identified it was ready to play before I did.
+
+I launched the game and asked if they know how to play. They pulled the iPad away from me silently saying *of course* we know how to play.
+
+They played together with the iPad for a good 20 or 30 minutes while I caught up with my friend. When it was time to go the 3yo hit the home button, followed by the lock button and then expertly closed the smart cover. *Three years old*.
+
+If I had any doubt left about the future of personal computing that's well and truly gone.
