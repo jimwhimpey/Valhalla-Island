@@ -21,10 +21,10 @@ I guess people are taking headphones because they can't bear to not listen to th
 
 Apparently everyone is planning immediate overseas travel after their house burns down, that's why the passport gets saved. Passports are easily replaced, albeit for a price but they all expire and must be replaced at some future point regardless.
 
-A lot of cameras being saved. Some old ones which I imagine would be difficult to replace but mostly new cameras and new lenses. I suppose it's to document they're flaming home becoming ashes.
+A lot of cameras being saved. Some old ones which I imagine would be difficult to replace but mostly new cameras and new lenses. I suppose it's to document their flaming home turning into ashes.
 
 Clothes? Urgh.
 
-There's nothing I own that I'd be truly upset to lose, for me the question is all about degree of inconvenience. Sure it'd be inconvenient to restore my data from online backups, buy new clothes I like, apply for a new passport, etc. But no level of inconvenience is worth risking your life.
+There's nothing I own that I'd be truly upset to lose, for me the question is all about degree of inconvenience. Sure it'd be inconvenient to restore my data from online backups, buy new clothes I like, apply for a new passport, etc. But in the context of life endangerment inconvenience is insignificant.
 
 There. That's all the fun sucked out of that.
