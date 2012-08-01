@@ -21,7 +21,7 @@ I guess people are taking headphones because they can't bear to not listen to th
 
 Apparently everyone is planning immediate overseas travel after their house burns down, that's why the passport gets saved. Passports are easily replaced, albeit for a price but they all expire and must be replaced at some future point regardless.
 
-A lot of cameras being saved. Some old ones which I imagine would be difficult to replace but mostly new cameras and new lenses. I suppose it's to document their flaming home turning into ashes.
+A lot of cameras being saved. Some old ones which I imagine would be difficult to replace but mostly new cameras and new lenses. I suppose it's to document their flaming homes turning into ashes.
 
 Clothes? Urgh.
 
