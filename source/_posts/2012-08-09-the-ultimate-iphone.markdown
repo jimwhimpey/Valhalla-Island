@@ -25,7 +25,7 @@ While I was lucky to get a free set of speakers, the exact same pair can be foun
 
 Any device or computer running iOS or Mac OS connected to your wireless network can stream music to the Airport Express attached to the amplifier using the magic of [Airplay](http://www.apple.com/itunes/airplay/). That means you can use iTunes, the great Music apps on your iOS device, the [iOS Remote app](http://itunes.apple.com/au/app/remote/id284417350?mt=8) playing music from your computer or *any other audio producing app* (including YouTube, Spotify, Rdio) to wirelessly send audio to your hifi setup.
 
-With my full music collection on my computer most commonly I'll use the Remote app on my iPhone or iPad to select music which is played through my hifi system using Airplay. When people see me do this it blows their minds. 
+With my full music collection on my computer most commonly I'll use the Remote app on my iPhone or iPad to select music on my computer which is played through my hifi system using Airplay. When people see me do this it blows their minds. 
 
 It's a great experience to lay in your bedroom or sit outside, search for and select music to play from the big music collection on your computer using your iPhone and have it play through your high quality hifi system in your lounge room. Even the volume can be controlled remotely. Compare it to having to get up to skip a song on a docked iPhone, hit next on a computer keyboard or seek through a CD.
 
