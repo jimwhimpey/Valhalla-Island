@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "App.net"
+title: "App.net or Twitter with a Better Business Model"
 date: 2012-08-12 20:25
 external-url: 
 ---
