@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Valhalla Island]]></title>
+  <link href="http://valhallaisland.com//atom.xml" rel="self"/>
+  <link href="http://valhallaisland.com//"/>
+  <updated>2012-08-12T22:10:47+10:00</updated>
+  <id>http://valhallaisland.com//</id>
+  <author>
+    <name><![CDATA[Jim Whimpey]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[App.net or Twitter with a Better Business Model]]></title>
+	    <link href="http://valhallaisland.com//blog/2012/app-dot-net/"/>
+    
+    <updated>2012-08-12T20:25:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/app-dot-net</id>
+		
+			<content type="html"><![CDATA[<p>Me, <a href="https://twitter.com/jimwhimpey/status/218849763532087296">four months ago</a>:</p>
+
+<blockquote><p>Build Twitter as it existed years ago, mimic the APIs simply with a different host and I think you&#8217;d have great success.</p></blockquote>
+
+<p>That&#8217;s <a href="https://join.app.net/">App.net</a>. The opaquely named and described (&#8220;real-time social feed&#8221;) service that&#8217;ll be a Twitter alternative, <a href="https://github.com/appdotnet/api-spec/blob/master/objects.md">mimicing the API</a> and asking for money from users instead of advertisers.</p>
+
+<p>I love Twitter but it&#8217;s been moving in <a href="https://dev.twitter.com/blog/delivering-consistent-twitter-experience">an uncomfortable direction</a> contrary to my desired use of the service (i.e. never via the website or official clients) for a while.</p>
+
+<p>App.net&#8217;s ideology matches mine:</p>
+
+<blockquote><p>We believe that advertising-supported social services are so consistently and inextricably at odds with the interests of users and developers that something must be done.</p></blockquote>
+
+<p>I&#8217;m glad they&#8217;re taking it on but I have two concerns.</p>
+
+<p>Firstly, why fund this using the Kickstarter model? It&#8217;s a software project <a href="https://alpha.app.net/global/">already well underway</a>, I don&#8217;t know why a huge capital base is required. They haven&#8217;t taken a single dollar to this point and they&#8217;ll be taking on paying customers once the services is live. Is the half million just to fund development between the alpha and launch? The Kickstarter-like fundraiser feels like a gimmicky cash grab to me. It&#8217;s certainly been good for proving demand exists but there&#8217;s a reason ongoing projects like these are against Kickstarter&#8217;s terms of service.</p>
+
+<p>As of this writing they&#8217;re $40k away from the goal with 45 hours remaining. It looks like they&#8217;ll reach the $500k but what if they fell, say, $5k short? Would they abandon an idea they&#8217;ve already partially implemented that there&#8217;s obviously significant demand for? I doubt it.</p>
+
+<p>Secondly, $50/year is <em>a lot</em>. I&#8217;m all for software financially supported by users but a social networks&#8217;s value increases exponentially as the user base grows. $50 is a significant barrier to growth, especially when there&#8217;s established and completely free competition. I think limited free plus premium paid accounts (à la Flickr and Strava) makes more sense in this context. That said, I&#8217;ve pre-registered an account and I&#8217;ll be happy to be proven wrong.</p>
+]]></content>
+		
+  </entry>
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[A Better iPhone, iPad, iPod and Mac Home Stereo]]></title>
+	    <link href="http://valhallaisland.com//blog/2012/the-ultimate-iphone/"/>
+    
+    <updated>2012-08-09T06:52:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/the-ultimate-iphone</id>
+		
+			<content type="html"><![CDATA[<p>Speaker docks for iPhones, iPods and iPads are <a href="http://www.amazon.com/s/ref=sr_st?keywords=iPod+dock&amp;qid=1344460095&amp;rh=k%3AiPod+dock%2Cn%3A172282&amp;sort=-price">expensive, ugly or offer plain terrible sound quality</a>. Often they&#8217;re all three yet they&#8217;re popular. Your iOS device is a great interface for browsing and selecting music having to <em>dock it</em> significantly diminishes that experience.</p>
+
+<p>For a couple years I&#8217;ve been running a great sounding, good looking and <em>cheap</em> sound system based on Apple&#8217;s Airport Express which any of my devices or computers can wirelessly interface. I couldn&#8217;t be happier with the setup yet it seems surprisingly rare. Here are the details and the cost breakdown:</p>
+
+<ul>
+<li><a href="http://store.apple.com/us/product/MC414LL/A?fnode=4d">Apple Airport Express</a> — $99</li>
+<li><a href="http://www.hifiengine.com/library/kenwood/ka-3700.shtml">1970s 20W Kenwood KA-3700</a> — Bought up on Ebay for $80.</li>
+<li><a href="http://imgc.classistatic.com/cps/blnc/120501/617r1/98077l7_20.jpeg">Philips AK285 passive speakers</a> — $0, sitting under Mum&#8217;s stairs unused.</li>
+</ul>
+
+
+<p>You can&#8217;t buy an amp exactly like this new but a lot of low-powered, 1970s Japanese-made amps were made and there&#8217;s many available second hand. Similar models were made by Marantz, Pioneer, Sansui and Yamaha. My exact model is for sale (as of this time of writing) <a href="http://www.ebay.com.au/itm/Trio-Kenwood-KA-3700-Classic-Silver-Amplifier-Vintage-1970s-Amp-DERBY-DE24-/130744341006?pt=UK_AudioTVElectronics_HomeAudioHiFi_Amplifiers&amp;hash=item1e70f8520e">on Ebay for $88</a>. A little hunting and patience and you&#8217;ll find a great deal. Alternatively, check the storage cupboards of your parents/aunties/uncles/grandparents. <em>Everyone</em> used to have these hooked up to their phonographs and you might be surprised by how many are floating around your extended family unused. Seriously.</p>
+
+<p>Despite modern models made by these same manufactures costing 10× more the electronics powering them have changed very little and sound quality is indistinguishable to a regular listener. They lack features like remote controls and many input options but these are unnecessary when used with an Airport Express.</p>
+
+<p>While I was lucky to get a free set of speakers, the exact same pair can be found second hand <a href="http://www.gumtree.com.au/s-ad/bibra-lake/audio/philips-ak285-30-speakers-50-watts-/1001859758">on Gumtree for $80</a>. Similar sets come up on Ebay all the time but even a nice set of new passive bookshelf speakers <a href="http://www.amazon.com/s/ref=sr_nr_p_36_2?rh=n%3A172282%2Cn%3A%21493964%2Cn%3A667846011%2Cn%3A3236449011%2Cn%3A172563%2Ck%3Abookshelf+speakers%2Cp_36%3A1253505011&amp;bbn=172563&amp;keywords=bookshelf+speakers&amp;ie=UTF8&amp;qid=1344507135&amp;rnid=386442011">don&#8217;t cost a great deal</a>.</p>
+
+<h3>The Interface</h3>
+
+<p><a href='http://static.jimwhimpey.com/blog/Home-hifi-setup-large.png'><img src='http://static.jimwhimpey.com/blog/Home-hifi-setup-small.png' alt='Home hifi setup' /></a></p>
+
+<p>Any device or computer running iOS or Mac OS connected to your wireless network can stream music to the Airport Express attached to the amplifier using the magic of <a href="http://www.apple.com/itunes/airplay/">Airplay</a>. That means you can use iTunes, the great Music apps on your iOS device, the <a href="http://itunes.apple.com/au/app/remote/id284417350?mt=8">iOS Remote app</a> playing music from your computer or <em>any other audio producing app</em> (including YouTube, Spotify, Rdio) to wirelessly send audio to your hifi setup.</p>
+
+<p>With my full music collection on my computer most commonly I&#8217;ll use the Remote app on my iPhone or iPad to select music on my computer which is played through my hifi system using Airplay. When people see me do this it blows their minds.</p>
+
+<p>It&#8217;s a great experience to lay in your bedroom or sit outside, search for and select music to play from the big music collection on your computer using your iPhone and have it play through your high quality hifi system in your lounge room. Even the volume can be controlled remotely. Compare it to having to get up to skip a song on a docked iPhone, hit next on a computer keyboard or seek through a CD.</p>
+
+<p>I&#8217;m no audiophile (and have nothing but sympathy for those who are) but the quality of sound out of this system is fantastic. Despite the low wattage it&#8217;s loud too, much louder than I could ever turn it up in my apartment building.</p>
+
+<p>This setup is one of the very few things, especially in the world of electronics, that isn&#8217;t only ideal in its quality and usability but is also low cost and accessible. If I lived in a bigger home I&#8217;d replicate it in every room.</p>
+]]></content>
+		
+  </entry>
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[Facebook Propaganda]]></title>
+	    <link href="http://valhallaisland.com//blog/2012/facebook-propaganda/"/>
+    
+    <updated>2012-08-08T18:34:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/facebook-propaganda</id>
+		
+			<content type="html"><![CDATA[<p>Reddit user mr17five does <a href="http://www.reddit.com/r/conspiracy/comments/xtl8k/is_not_joining_facebook_a_sign_youre_a_psychopath/c5ptvyk">a great job tearing down</a> a terrible article <a href="http://www.dailymail.co.uk/news/article-2184658/Is-joining-Facebook-sign-youre-psychopath-Some-employers-psychologists-say-suspicious.html?ICO=most_read_module">from the Daily Mail</a> about the way not being on Facebook makes you a potential psychopath:</p>
+
+<blockquote><p>The article sets out to immediately assert that facebook is &#8220;such a pervasive force in modern society&#8221; that it would almost be foolish not to have one. This is known as <a href="http://en.wikipedia.org/wiki/Argumentum_ad_populum">argumentum ad populum</a>, or more commonly &#8220;bandwagon fallacy.&#8221; Just ignore the fact that over six billion people (over 85% of Earth&#8217;s population) do not have facebook accounts.</p></blockquote>
+
+<p>A subset of the world&#8217;s mass murderers also didn&#8217;t drink a litre of beetroot juice for breakfast. If you don&#8217;t drink a litre of beetroot juice for breakfast &#8220;some&#8221; &#8220;experts&#8221; &#8220;might&#8221; think that you &#8220;could be&#8221; a &#8220;psychopath&#8221;.</p>
+]]></content>
+		
+  </entry>
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[Healthcare]]></title>
+	    <link href="http://valhallaisland.com//blog/2012/healthcare/"/>
+    
+    <updated>2012-08-08T16:29:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/healthcare</id>
+		
+			<content type="html"><![CDATA[<p><a href="http://log.scifihifi.com/post/26127441140/i-still-know-scientists-programmers-designers">Buzz Andersen</a>:</p>
+
+<blockquote><p>I simply went without health insurance for awhile to finish Birdfeed (it’s shockingly expensive in New York State—far more even than, say, California), and I know a surprising number of my peers in the indie Mac/iOS community have done the same thing at various points. And we’re the crazy ones. I guarantee you a lot of people are too scared by the cost of health care to even consider starting their own businesses.</p></blockquote>
+
+<p>Having been born and grown up in <a href="http://en.wikipedia.org/wiki/Australia">a country</a> that provides free healthcare to all its citizens, having seen the care provided to almost everyone I know and <a href="http://valhallaisland.com/blog/2009/141205452/">myself personally</a> (warning: a little gore) over the years, it is difficult for me to even comprehend the idea of going without health insurance in the USA.</p>
+
+<p>If I understand the situation correctly, when a US citizen gets sick or injured without insurance, they have a choice between getting zero treatment, and therefore potential death or lifetime disability, or complete financial ruin.</p>
+
+<p>Even if they have insurance, the insurance provider is a huge corporation who&#8217;s profits depend on <em>not providing coverage</em>.</p>
+
+<p>I still can&#8217;t fathom it.</p>
+]]></content>
+		
+  </entry>
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[Minor Differences Between Australia and France]]></title>
+	    <link href="http://valhallaisland.com//blog/2012/australia-france/"/>
+    
+    <updated>2012-08-01T21:01:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/australia-france</id>
+		
+			<content type="html"><![CDATA[<p>I&#8217;ve been in France for over a month now staying in Grenoble while <a href="http://www.flickr.com/photos/jimwhimpey/">riding my bike through the French alps</a>. In my time here I&#8217;ve noticed a lot of small differences between our countries and cultures. These kind of differences and the circumstances that brought them about fascinates me.</p>
+
+<h3>Cars and Driving</h3>
+
+<p>90% of cars are hatchbacks, the other 10% are vans. I have seen one 4X4 and one ute in a month.</p>
+
+<p>Traffic lights are minimal, not in frequency but in each installation. There is only one large set of lights and one small set of lights (for bicycles) for each direction of traffic. Each set is on the close side of the intersection so if cars roll too far into the intersection they can&#8217;t see the lights change.</p>
+
+<p>Traffic lights have no buttons for pedestrians nor pressure sensors for cars. They cycle based on time and nothing else. From what I can tell the cycle timing never changes.</p>
+
+<p>Taxis are luxury cars. The only BMW, Mercedes and Audis I&#8217;ve seen in France have been taxis. They&#8217;re also minimally branded, the only thing that distinguishes them as cabs from the outside is a small roof mounted sign.</p>
+
+<p>Bicycle commuting is very popular here and bikes are treated as first class road users by cars. Bikes flaunt the road rules constantly yet are never treated in anger or frustration by motorists. Bikes are calmly given right of way in all situations whether they&#8217;re breaking the rules or not.</p>
+
+<h3>Supermarkets and Food</h3>
+
+<p>Supermarkets sell alcohol.</p>
+
+<p>Cashiers have seats.</p>
+
+<p>Cashiers don&#8217;t bag your groceries, you do.</p>
+
+<p>You won&#8217;t be given plastic bags unless you explicitly ask for them and often they cost a small amount. From what I&#8217;ve seen almost everyone has their own bags/trolley/basket.</p>
+
+<p>Cafes rarely serve anything more than the most basic pre-prepared food, often not even that.</p>
+
+<p>&#8220;American style&#8221; bread (i.e. non-baguette sliced bread loafs) come almost exclusively in half loaves (compared to Australian loaf size).</p>
+
+<p>Drinks are measured in centilitres.</p>
+
+<p>Coke cans come in 33cl, bottles come in 50cl and bottle caps are about 5mm shallower than bottles back home (<em>tiny</em> differences like that are interesting to me).</p>
+
+<h3>Other Stuff</h3>
+
+<p>ATMs dispense various denominations. For example, if you ask for  €100 the default is usually 1 x 50, 2 x 20 and 1 x 10. Often you can specify the exact denominations, i.e. get €100 in ten 10s if you want.</p>
+
+<p>French computer keyboards are <a href="http://www.zacheverson.com/wp-content/uploads/2008/12/french-layout.gif">frustratingly similar</a> to the English qwerty layout. <em>Numbers</em> require the shift modifier!</p>
+
+<p>Cigarette smoking is <em>much</em> more common here and heavily skews young. It seems everyone in their 20s here smokes and that&#8217;s rare back home.</p>
+
+<p>Dogs are allowed everywhere: on buses, trains, in shops, in restaurants. A couple walked into a restaurant in Briançon with their beagle. They sat down, their beagle sat up on the third chair and stayed there while they ate their meals.</p>
+]]></content>
+		
+  </entry>
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[The Burning House Project &rarr;]]></title>
+	    <link href="http://theburninghouse.com/"/>
+    
+    <updated>2012-07-19T21:15:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/the-burning-house</id>
+		
+			<content type="html"><![CDATA[<p>Preface: I&#8217;m deeply non-sentimental.</p>
+
+<blockquote><p>If your house was burning, what would you take with you? It&#8217;s a conflict between what&#8217;s practical, valuable and sentimental.</p></blockquote>
+
+<p>Featuring heavily: cameras, camera lenses, passports, <em>still commercially available books and CDs</em>, printed photographs, headphones and clothing.</p>
+
+<p>The more I think about this question the more I doubt the people participating in this project are trying hard enough. I know it&#8217;s just a fun game to discover what things people find important but imagine people scrambling to take these things if there&#8217;s literally flames crawling up the walls, smoke everywhere, extreme heat, etc.</p>
+
+<p>No one should have a print as their <em>only</em> copy of a photograph. I would hope that while composing these photos the participants realised how dumb it is, immediately scanned the pics and stored the files on their computer and on the internet somewhere. The same goes for any kind of &#8220;letter from grandma&#8221; type document.</p>
+
+<p><a href="http://theburninghouse.com/post/26497459645/silka-frigault">A Charlotte Bronte book and a psychology textbook</a>!? Jane Eyre can be <a href="http://www.amazon.com/Jane-Eyre-Dover-Thrift-Editions/dp/0486424499">replaced on Amazon</a> for $4.50. Your house is literally burning down and endangering your life.</p>
+
+<p>I guess people are taking headphones because they can&#8217;t bear to not listen to their favourite music between their house burning down and the next opportunity they might have to buy replacement headphones.</p>
+
+<p>Apparently everyone is planning immediate overseas travel after their house burns down, that&#8217;s why the passport gets saved. Passports are easily replaced, albeit for a price but they all expire and must be replaced at some future point regardless.</p>
+
+<p>A lot of cameras being saved. Some old ones which I imagine would be difficult to replace but mostly new cameras and new lenses. I suppose it&#8217;s to document their flaming homes turning into ashes.</p>
+
+<p>Clothes? Urgh.</p>
+
+<p>There&#8217;s nothing I own that I&#8217;d be truly upset to lose, for me the question is all about degree of inconvenience. Sure it&#8217;d be inconvenient to restore my data from online backups, buy new clothes I like, apply for a new passport, etc. But in the context of life endangerment inconvenience is insignificant.</p>
+
+<p>There. That&#8217;s all the fun sucked out of that.</p>
+ <a href="http://valhallaisland.com//blog/2012/the-burning-house/">&#9875;</a>]]></content>
+		
+  </entry>
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[No Title]]></title>
+	    <link href="http://valhallaisland.com//blog/2012/retina-web/"/>
+    
+    <updated>2012-07-11T11:02:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/retina-web</id>
+		
+			<content type="html"><![CDATA[<p>Brad Frost <a href="https://twitter.com/brad_frost/status/222378122690035712">posted on Twitter</a>:</p>
+
+<blockquote><p>I like how we&#8217;re talking about optimizing for Retina displays when I see sites weighing 3-6MB. Yeah, that&#8217;s the right conversation to have.</p></blockquote>
+
+<p>For me optimising for retina displays means serving <em>less</em> images, not duplicates at higher resolutions. You can be almost guaranteed your web content being rendered at retina resolution is being rendered by WebKit with advanced CSS support obsoleting the need for many images. Potentially a retina optimised website can look much better and weigh much less than a &#8220;traditionally designed&#8221; website served to a retina screen.</p>
+]]></content>
+		
+  </entry>
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[From YoJimbo to Evernote]]></title>
+	    <link href="http://valhallaisland.com//blog/2012/yojimbo-to-evernote/"/>
+    
+    <updated>2012-06-26T11:38:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/yojimbo-to-evernote</id>
+		
+			<content type="html"><![CDATA[<p><a href="http://www.barebones.com/products/yojimbo/">YoJimbo</a> has been part of my Mac experience since I started university where I used it to take notes during class on my 12&#8221; PowerBook.</p>
+
+<p>When I got a second Mac YoJimbo was the only reason I shelled out $120/year for a MobileMe subscription. The MobileMe sync worked really well for years until it ceased to work behind my work&#8217;s network (not YoJimbo&#8217;s fault). Then iCloud superseded MobileMe and choosing to migrate meant giving up YoJimbo sync. We&#8217;re now <a href="http://www.apple.com/mobileme/">four days from the MobileMe sunset</a> with <a href="https://groups.google.com/forum/#!topic/yojimbo-talk/V9ICS1u4ins">no sign</a> of <a href="http://barebones.com/support/yojimbo/faqs.html#icloud">the promised</a> iCloud sync supporting update to YoJimbo</p>
+
+<p>Meanwhile, there&#8217;s been the iPhone and the iPad. How do you get your YoJimbo content on those devices? I briefly tried <a href="http://flyingmac.com/webjimbo/">WebJimbo</a> but found it buggy, messy and could never get it to work quite right.</p>
+
+<p>Bare Bones partially filled the gap with <a href="http://www.barebones.com/products/yojimbo/tour-sidekick.html">Sidekick</a> which, if you were able to mount a remote server or publicly reveal a local web server (being careful to password protect the directory) you could access your data remotely. This is pretty good but with the minor downside no offline viewing and the major downside of read only data.</p>
+
+<p>For the iPad there&#8217;s a slightly better solution, <a href="http://www.barebones.com/products/mobile/yojimbo/">an official YoJimbo app</a>! Unfortunately it only syncs via the manual open-both-apps-while-you&#8217;re-on-the-same-network method. Without remembering to open the app before leaving your network you&#8217;re left with an out of date copy of your data, a disadvantage compared to Sidekick but with the advantage of offline viewing. Again though, your data is frustratingly read only.</p>
+
+<p>Enter: Evernote.</p>
+
+<p>In my usual style I ignored Evernote while everyone raved about it. I wanted to use the office iPad for taking notes at my French class. I needed something I could log into and out of with this not being my iPad and something I could easily and <em>automatically</em> get my data out of. Evernote fit the bill.</p>
+
+<p>Soon after I got an iPad of my own and didn&#8217;t like the thought of continuing to persevere with a $10 read-only, manual syncing YoJimbo client and I switched.</p>
+
+<p>Transferring my data out was as simple as creating equivalent notebooks in Evernote and simply dragging my items across. All notes maintained their formatting and things like software serials converted to YoJimbo&#8217;s plain text export format. It took no time at all.</p>
+
+<p>I&#8217;ll miss being able to apply custom icons to folders/notebooks, I&#8217;ll really miss colour labels but I definitely won&#8217;t miss applying <a href="http://hicksdesign.co.uk/journal/widescreen-hack-for-yojimbo-2">a hack to get a three vertical pane view</a> after every update for 7 years.</p>
+]]></content>
+		
+  </entry>
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[The Future of Computing]]></title>
+	    <link href="http://valhallaisland.com//blog/2012/the-future/"/>
+    
+    <updated>2012-06-10T17:45:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/the-future</id>
+		
+			<content type="html"><![CDATA[<p>This afternoon a friend I was keen to chat to and catch up with came to my place to pick up some gear. He was bringing along his kids (3 and 5-years-old) so I quickly scanned around my single, 24-year-old guy, minimal apartment looking for something that might distract them for 20 minutes. I gave up looking.</p>
+
+<p>When they got here they darted directly at the iPad sitting on my couch and I thought &#8220;of course&#8221;!</p>
+
+<p>I sat down with them looking through my games for something they might like. Nothing. I asked if they knew of any good games and it turns out they <em>love</em> Monkey Maths. They watched as I searched the app store. They identified the Monkey Maths icon before I did. I downloaded the free app. It downloaded in 15 seconds and they realised it was ready to play before I did.</p>
+
+<p>I launched the game and asked if they know how to play. They pulled the iPad away from me silently saying <em>of course</em> we know how to play.</p>
+
+<p>They played together with the iPad for a good 20 or 30 minutes while I caught up with my friend. When it was time to go the 3yo hit the home button, followed by the lock button and then expertly closed the smart cover. <em>Three years old</em>.</p>
+
+<p>If I had any doubt left about the future of personal computing that&#8217;s well and truly gone.</p>
+]]></content>
+		
+  </entry>
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[Tune In Turn Off Plug Out &rarr;]]></title>
+	    <link href="http://www.thebolditalic.com/Blam/stories/1894-tune-in-turn-off-plug-out"/>
+    
+    <updated>2012-06-07T08:17:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/tune-in-turn-off-plug-out</id>
+		
+			<content type="html"><![CDATA[<p>Brian Lam&#8217;s advice (strangely branded as specifically for San Francisco but applicable everywhere) for loosening your attachment to your phone starts off really well:</p>
+
+<blockquote><p>Pay attention to your date! You are here to try to have sex, which you cannot do online yet. Your phone stays in your pocket. It may ring. It may buzz. You will want to prod it. Don’t.</p></blockquote>
+
+<p>Then it gets a little weird with very specific instructions for how to look cool using an iPad in a cafe:</p>
+
+<blockquote><p>My only advice is simple: Lean back, cross your legs, relax your shoulders, and hold the tablet on your knee with one hand. Look as if you are reading a newspaper rather than using a computer.</p></blockquote>
+
+<p>Back to good:</p>
+
+<blockquote><p>Picking up a phone when running says you&#8217;re not running hard enough. Hang up the phone, run faster.</p></blockquote>
+
+<p>More good advice for those who feel compelled to personally document an entire gig on their phones:</p>
+
+<blockquote><p>How are you going to dance and drink and throw your sweaty arms around your date when you&#8217;re futzing with your phone?</p></blockquote>
+
+<p>But then I couldn&#8217;t agree less with Brian on using your phone at the movies:</p>
+
+<blockquote><p>Here&#8217;s a trick I like: Turn the brightness all the way down so you can check your phone during the slow scenes, under a coat.</p></blockquote>
+
+<p>And how do you satisfy your insatiable thirst for Twitter updates when hanging out with your friends?</p>
+
+<blockquote><p>Easy. In a lull, just ask if everyone wants to take a phone break. Or just declare, &#8220;phone break!&#8221; and start clicking. Everyone else will follow suit.</p></blockquote>
+
+<p>That doesn&#8217;t sound much like &#8220;tuning in, turning off or plugging out&#8221; to me. It sounds bizarre and if it became acceptable social etiquette I would join the Amish.</p>
+
+<p>We&#8217;re now at the point where someone feels the need to create an illustrated guide for <em>adults</em> on how to <em>show basic manners</em> in social situations. It&#8217;s like a parent telling their four year old to &#8220;say thank-you&#8221; and even the guide author can&#8217;t suggest <em>sitting through a whole movie without checking your phone</em>.</p>
+
+<p>For me all this advice can be distilled to something simpler: be present in your life. Participate in and pay attention to what&#8217;s happening around you <em>right now</em>.</p>
+ <a href="http://valhallaisland.com//blog/2012/tune-in-turn-off-plug-out/">&#9875;</a>]]></content>
+		
+  </entry>
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[Being Present]]></title>
+	    <link href="http://valhallaisland.com//blog/2012/being-present/"/>
+    
+    <updated>2012-06-05T21:25:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/being-present</id>
+		
+			<content type="html"><![CDATA[<p>As part of our Diamond Jubilee coverage ABC News posted this photo of the crowd &#8220;welcoming&#8221; the Queen at the Epsom Derby:</p>
+
+<p><a href='http://www.abc.net.au/news/2012-06-03/racegoers-photograph-queen27s-arrival/4049408'><img src='http://static.jimwhimpey.com/blog/1338969561-small.jpeg' alt='1338969561' /></a></p>
+
+<p>The people in this photo are at most, foregoing and at least, diminishing a <em>real live experience</em> so they can instead take a personal recording of the scene in front of them.</p>
+
+<p>This is insane to me. Be present in the moment, either <a href="http://www.bigcontrarian.com/2010/07/06/pictures/">remember or not</a> and live your damn life. Not everything needs to be seen through a 3.5&#8221; LCD screen held in your hand.</p>
+]]></content>
+		
+  </entry>
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[Learning]]></title>
+	    <link href="http://valhallaisland.com//blog/2012/taking-time/"/>
+    
+    <updated>2012-05-26T19:34:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/taking-time</id>
+		
+			<content type="html"><![CDATA[<p>The most good and worthwhile things in life take time. Often a lot of time. Relationships, fitness, education, businesses, projects are all rewarded by consistent time investment and become more valuable as time&#8217;s invested.</p>
+
+<p>You should never shy away from something because it&#8217;ll take a lot of time and you should spend a great deal of time on things you already know are good because they&#8217;ll only get better.</p>
+]]></content>
+		
+  </entry>
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[Escaping from North Korea &rarr;]]></title>
+	    <link href="http://www.guardian.co.uk/books/2012/mar/16/escape-north-korea-prison-camp?CMP=twt_gu"/>
+    
+    <updated>2012-05-26T18:56:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/north-korea-escape</id>
+		
+			<content type="html"><![CDATA[<p>I recently read Orwell&#8217;s 1984 for the first time. It was closely followed by this article about a young man born into a North Korean prison camp who is one of the few who have ever escaped. The similarities between Oceania and the prison camp blew me away. The forced labour, the extreme scarcity of resources, the culture of whistle blowing, the sexual repression and the torture were all the same.</p>
+
+<p>As other dictatorships have fallen in recent times I look forward to the day the same happens in North Korea.</p>
+ <a href="http://valhallaisland.com//blog/2012/north-korea-escape/">&#9875;</a>]]></content>
+		
+  </entry>
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[What Eduardo Saverin Owes America &rarr;]]></title>
+	    <link href="http://pandodaily.com/2012/05/12/what-eduardo-saverin-owes-america-hint-nearly-everything/"/>
+    
+    <updated>2012-05-16T10:50:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/saverin</id>
+		
+			<content type="html"><![CDATA[<p>Farhad Manjoo on Facebook co-founder Eduardo Saverin renouncing his US citizenship before the Facebook IPO to skirt around capital gains tax:</p>
+
+<blockquote><p>Would Eduardo Saverin have been successful anywhere else? Maybe, but not as quickly, and not as spectacularly. It was only thanks to America—thanks to the American government’s direct and indirect investments in science and technology; thanks to the U.S. justice system; the relatively safe and fair investment climate made possible by that justice system; the education system that educated all of Facebook’s workers, and on and on—it was only thanks to all of this that you know anything at all about Eduardo Saverin today.</p></blockquote>
+
+<p>America is good at making people fabulously wealthy. The problem is that it&#8217;s equally good at making those same people so incredibly greedy and bereft of morals or gratitude that they&#8217;d do something this dishonorable. To cut ties to the nation responsible for your safety and wealth is bad enough but to do it to avoid paying them a relatively small cut of your massive fortune is despicable.</p>
+
+<p>Via <a href="http://daringfireball.net/linked/2012/05/15/manjoo-saverin">Daring Fireball</a>.</p>
+ <a href="http://valhallaisland.com//blog/2012/saverin/">&#9875;</a>]]></content>
+		
+  </entry>
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[Blueseed &rarr;]]></title>
+	    <link href="http://www.blueseed.co/"/>
+    
+    <updated>2012-05-09T16:04:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/blueseed</id>
+		
+			<content type="html"><![CDATA[<p>Blueseed is an idea to fit out a ship off the coast of California in international waters that will allow &#8220;boldest, brightest, and most talented tech entrepreneurs&#8221; to start a business with little immigration overhead.</p>
+
+<p>If this ridiculous idea got off the ground it would be the physical manifestation of the life destroying culture of working
+yourself into the ground to make a startup succeed. That is, get acquired. I can&#8217;t think of anything I&#8217;d want less than to
+isolate myself on an island,
+bunking with four others in a tiny space while working in an environment where I&#8217;m expected to give up everything to make a
+venture capitalist rich.</p>
+
+<p>What a nightmare.</p>
+ <a href="http://valhallaisland.com//blog/2012/blueseed/">&#9875;</a>]]></content>
+		
+  </entry>
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[Bathroom Fans &rarr;]]></title>
+	    <link href="http://www.marco.org/2012/05/07/why-i-write-about-bathroom-fans"/>
+    
+    <updated>2012-05-07T21:36:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/bathroom-fans</id>
+		
+			<content type="html"><![CDATA[<p>Marco Arment as part of his argument for writing posts about bathroom fans and pillowcasing strategies:</p>
+
+<blockquote><p>Installing timer switches on my bathroom fans has eliminated a <em>daily</em> annoyance from my life. Deciding on a pillowcasing strategy has made me sleep more comfortably <em>every night</em> since I wrote that stupid article seven years ago.</p></blockquote>
+
+<p>I&#8217;m with Marco. Finding ways to automate and streamline parts of your life should be a continual pursuit. Think about how many times you&#8217;ve lost your keys and how much time and frustration you&#8217;d have saved if years ago you purposefully decided you were going to put your keys in the same place every day forever.</p>
+ <a href="http://valhallaisland.com//blog/2012/bathroom-fans/">&#9875;</a>]]></content>
+		
+  </entry>
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[Money, Stress and The Cloud &rarr;]]></title>
+	    <link href="http://icelab.com.au/articles/money-stress-and-the-cloud/"/>
+    
+    <updated>2012-05-07T19:17:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/tim-riley</id>
+		
+			<content type="html"><![CDATA[<p>Tim Riley&#8217;s post about the way solving a difficult software development problem can interfere with your entire life struck a chord with me. Although Tim&#8217;s problem was bigger than anything I&#8217;ve had to deal with, credit card processing on a client&#8217;s website, the horrible feelings are the same.</p>
+
+<p>All software has bugs, you accept and systematically work through them. But some bugs exist on another plane, unable to be fixed through regular debugging processes. Often they&#8217;re complicated by context, an unfamiliar environment or parts out of your control. You can become <em>obsessed</em> with these bugs. When dealing with them I have an extremely difficult time thinking about anything else. I can&#8217;t read, I can&#8217;t talk to people, I&#8217;m unpleasant to be around. After hours without progress you go to bed thinking about it. Thinking about it makes you angry and frustrated but <em>you can&#8217;t stop thinking about it</em>. You spend so long at the computer you lose all perspective and follow paths that take you further from the solution. With each minute you spend banging your head against the problem you think less clearly and the possibility of solving the problem decreases. It is <em>frustrating</em>.</p>
+
+<p>Experience reminds you how to overcome this wall. You have to get up, leave, distract yourself and come back with a fresh perspective and a clear mind. Actually doing it is difficult because it feels like quitting, it feels like you&#8217;re delaying the solution. It&#8217;s difficult if other people depend on the solution, it&#8217;s difficult because you feel like you&#8217;re close, it&#8217;s difficult because you desperately want it fixed and out of your mind. To solve the problem you have to stop trying to solve the problem, at least for a short while.</p>
+
+<p>Tim went through this while dealing with other external stresses. His post is a great insight for non-programmers on the darker side of software development.</p>
+ <a href="http://valhallaisland.com//blog/2012/tim-riley/">&#9875;</a>]]></content>
+		
+  </entry>
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[Impressions]]></title>
+	    <link href="http://valhallaisland.com//blog/2012/no-title/"/>
+    
+    <updated>2012-04-01T08:31:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/no-title</id>
+		
+			<content type="html"><![CDATA[<p>Twelve years ago I first started using a computer for general school work, typing up assignments and the like. I was using Microsoft Word on Windows 95. The language of either Word or the system was set to US English rather than British English which resulted in many incorrectly red underlined words. In the early days Word&#8217;s list of known names for spellchecking purpose must have been much shorter because nearly every name would also get red underlined.</p>
+
+<p>It bothered me having something marked as wrong which I knew was right but Word had the ability to &#8220;Add word to dictionary&#8221; so that it was considered a correctly spelt word from then on. I was doing this a lot, too much it turned out. The last time I did it I got an error: &#8220;The custom learned words dictionary is full&#8221;.</p>
+
+<p>I don&#8217;t do it nearly as often any more as I know how to set my computer&#8217;s locale and many more names (including smart things like those from my contact list) are included in the spell checking dictionary.</p>
+
+<p>But when I do, even though I&#8217;m using an operating system made by a completely different company, even though I&#8217;m using different text editing or page layout software, even though such a limited was likely stamped out of that software many versions ago, even though it&#8217;s been <em>twelve years</em>, I still have a split second of hesitation before selecting the Learn spelling menu item.</p>
+]]></content>
+		
+  </entry>
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[The Global Mail]]></title>
+	    <link href="http://valhallaisland.com//blog/2012/the-global-mail/"/>
+    
+    <updated>2012-03-02T06:25:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/the-global-mail</id>
+		
+			<content type="html"><![CDATA[<p>In a world of where online news success is measured by advertising impressions the newly launched <a href="http://www.theglobalmail.org/">Global Mail</a> is taking a refreshingly scrupulous approach. Funded by philanthropy, run by an edict to serve the audience, not advertisers, staffed by many ex-ABC journalists who publish only a few articles each day.</p>
+
+<p>The design is interesting: horizontal scrolling with article body text split into thin newspaper-like thin columns. For articles where I can easily sideways scroll with a trackpad or iPad touch screen I think it works really well. On the homepage where you can only navigate sideways with buttons it&#8217;s clunky. The Twitter ticker along the bottom of the homepage is gratuitous.</p>
+
+<p>From what I&#8217;ve read so far the writing is top notch. I really enjoyed Mike Seccombe&#8217;s piece on <a href="http://www.theglobalmail.org/feature/why-the-super-bowl-is-a-super-bore/15/">the cultural differences between Australian and American sport</a>. All in all this is very close to the news website I&#8217;d create myself in an ideal world.</p>
+]]></content>
+		
+  </entry>
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[Pretty But Useless Infographics: Now in Video]]></title>
+	    <link href="http://valhallaisland.com//blog/2012/pretty-but-useless-infographics-now-in-video/"/>
+    
+    <updated>2012-02-28T17:16:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/pretty-but-useless-infographics-now-in-video</id>
+		
+			<content type="html"><![CDATA[<p><a href="http://www.youtube.com/watch?v=dhhdmahBQU8">This video about how acupuncture works</a> by RMIT University was <a href="http://twitter.com/makenosound/status/174286341729816576">brought to my attention</a> this morning after I <a href="http://twitter.com/jimwhimpey/status/174283324586602496">made a joke</a> about chiropractors.</p>
+
+<p>Looking past the pretty veneer you can see that it&#8217;s little more than a closed captioned two minute verbal explanation. The captions are simply animated in as the words are being spoken. One concept does get visually illustrated but it&#8217;s the <em>analogy</em>. They animate cars driving on a road, why would I need <em>that</em> illustrated, I can imagine that. You have a video, why not animate what actually happens <em>to the body</em>, <em>inside</em>, where I can&#8217;t otherwise see it!?</p>
+
+<p>I thought that it may have just been the farcical topic of acupuncture (it magically fixes the equivalent of broken down cars in your body!) that corrupted the first video. Of course it&#8217;s hard to visualise and animate something that&#8217;s inherently flawed but the <a href="http://www.youtube.com/watch?v=q_E4DrPRLPI">equivalent video on interest rates</a>, a subject ripe for visual explanation, is just as bad. Simply a rudimentary verbal explanation of interest rates with fancy closed captions too.</p>
+
+<p>These kinds of &#8220;infographics&#8221; which don&#8217;t actually disseminate information at all are <a href="http://mrgan.tumblr.com/post/509200141/infographics">rife</a> at dumb sites like <a href="http://mashable.com/2011/09/30/twitter-history-infographic/">Mashable</a>. It saddens me that the same concept has leaked into what should be a richer medium for explanation and that a <em>reputable university</em> is also unable to see the difference between pretty and meaningful.</p>
+]]></content>
+		
+  </entry>
+  
+</feed>
