@@ -4,7 +4,7 @@
   <title><![CDATA[Valhalla Island]]></title>
   <link href="http://valhallaisland.com//atom.xml" rel="self"/>
   <link href="http://valhallaisland.com//"/>
-  <updated>2012-08-12T22:10:47+10:00</updated>
+  <updated>2012-08-13T20:51:32+10:00</updated>
   <id>http://valhallaisland.com//</id>
   <author>
     <name><![CDATA[Jim Whimpey]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[The Cloud]]></title>
+	    <link href="http://valhallaisland.com//blog/2012/the-cloud/"/>
+    
+    <updated>2012-08-13T19:52:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/the-cloud</id>
+		
+			<content type="html"><![CDATA[<p>This image is used as part of <a href="http://australia.emc.com/microsites/cloud/cloud.htm?pid=home-small-cloudtransformsit-230212">EMC&#8217;s</a> marketing, often with the tag line &quot;cloud transforms IT&quot;.</p>
+
+<p><a href='http://static.jimwhimpey.com/blog/Stupid-cloud-large.jpeg'><img src='http://static.jimwhimpey.com/blog/Stupid-cloud-small.jpeg' alt='Stupid cloud' /></a></p>
+
+<p>It makes sense to me as a marketing tool to non-technical people: <em>&quot;this internet stuff is really expensive, complicated and often the source of problems, simplifying it is desirable&quot;</em>. But as a web developer who often finds himself administrating systems the idea of applications and infrastructure being as simple as a <em>cloud</em> is almost offensive.</p>
+
+<p>It really bothers me is when it&#8217;s used in a technical context. See <a href="http://www.rackspace.com/cloud/">The Rackspace Open <em>Cloud</em> with Public, Private and Hybrid <em>Clouds</em></a>. If I&#8217;m at the Rackspace website I&#8217;m in the market for off-site web hosting. I know what I want and need: a computer hooked up to the internet in a datacenter, not a cloud.</p>
+
+<p>It&#8217;s a marketing term designed to make the complexity seem like magic. It&#8217;s <em>my job</em> to make that that complexity seem like magic and I don&#8217;t like it being treated as though it&#8217;s as simple as purchasing your very own &#8220;hybrid cloud&#8221;.</p>
+]]></content>
+		
+  </entry>
   
   <entry>
 		
@@ -33,7 +54,7 @@
 
 <blockquote><p>We believe that advertising-supported social services are so consistently and inextricably at odds with the interests of users and developers that something must be done.</p></blockquote>
 
-<p>I&#8217;m glad they&#8217;re taking it on but I have two concerns.</p>
+<p>I&#8217;m glad they&#8217;re taking it on but I have two concerns.<p></p></p>
 
 <p>Firstly, why fund this using the Kickstarter model? It&#8217;s a software project <a href="https://alpha.app.net/global/">already well underway</a>, I don&#8217;t know why a huge capital base is required. They haven&#8217;t taken a single dollar to this point and they&#8217;ll be taking on paying customers once the services is live. Is the half million just to fund development between the alpha and launch? The Kickstarter-like fundraiser feels like a gimmicky cash grab to me. It&#8217;s certainly been good for proving demand exists but there&#8217;s a reason ongoing projects like these are against Kickstarter&#8217;s terms of service.</p>
 
@@ -483,25 +504,6 @@ venture capitalist rich.</p>
 <p>The design is interesting: horizontal scrolling with article body text split into thin newspaper-like thin columns. For articles where I can easily sideways scroll with a trackpad or iPad touch screen I think it works really well. On the homepage where you can only navigate sideways with buttons it&#8217;s clunky. The Twitter ticker along the bottom of the homepage is gratuitous.</p>
 
 <p>From what I&#8217;ve read so far the writing is top notch. I really enjoyed Mike Seccombe&#8217;s piece on <a href="http://www.theglobalmail.org/feature/why-the-super-bowl-is-a-super-bore/15/">the cultural differences between Australian and American sport</a>. All in all this is very close to the news website I&#8217;d create myself in an ideal world.</p>
-]]></content>
-		
-  </entry>
-  
-  <entry>
-		
-	    <title type="html"><![CDATA[Pretty But Useless Infographics: Now in Video]]></title>
-	    <link href="http://valhallaisland.com//blog/2012/pretty-but-useless-infographics-now-in-video/"/>
-    
-    <updated>2012-02-28T17:16:00+10:00</updated>
-    <id>http://valhallaisland.com//blog/2012/pretty-but-useless-infographics-now-in-video</id>
-		
-			<content type="html"><![CDATA[<p><a href="http://www.youtube.com/watch?v=dhhdmahBQU8">This video about how acupuncture works</a> by RMIT University was <a href="http://twitter.com/makenosound/status/174286341729816576">brought to my attention</a> this morning after I <a href="http://twitter.com/jimwhimpey/status/174283324586602496">made a joke</a> about chiropractors.</p>
-
-<p>Looking past the pretty veneer you can see that it&#8217;s little more than a closed captioned two minute verbal explanation. The captions are simply animated in as the words are being spoken. One concept does get visually illustrated but it&#8217;s the <em>analogy</em>. They animate cars driving on a road, why would I need <em>that</em> illustrated, I can imagine that. You have a video, why not animate what actually happens <em>to the body</em>, <em>inside</em>, where I can&#8217;t otherwise see it!?</p>
-
-<p>I thought that it may have just been the farcical topic of acupuncture (it magically fixes the equivalent of broken down cars in your body!) that corrupted the first video. Of course it&#8217;s hard to visualise and animate something that&#8217;s inherently flawed but the <a href="http://www.youtube.com/watch?v=q_E4DrPRLPI">equivalent video on interest rates</a>, a subject ripe for visual explanation, is just as bad. Simply a rudimentary verbal explanation of interest rates with fancy closed captions too.</p>
-
-<p>These kinds of &#8220;infographics&#8221; which don&#8217;t actually disseminate information at all are <a href="http://mrgan.tumblr.com/post/509200141/infographics">rife</a> at dumb sites like <a href="http://mashable.com/2011/09/30/twitter-history-infographic/">Mashable</a>. It saddens me that the same concept has leaked into what should be a richer medium for explanation and that a <em>reputable university</em> is also unable to see the difference between pretty and meaningful.</p>
 ]]></content>
 		
   </entry>

@@ -1,0 +1,16 @@
+---
+layout: post
+title: "The Cloud"
+date: 2012-08-13 19:52
+external-url: 
+---
+
+This image is used as part of [EMC's](http://australia.emc.com/microsites/cloud/cloud.htm?pid=home-small-cloudtransformsit-230212) marketing, often with the tag line &quot;cloud transforms IT&quot;.
+
+<a href='http://static.jimwhimpey.com/blog/Stupid-cloud-large.jpeg'><img src='http://static.jimwhimpey.com/blog/Stupid-cloud-small.jpeg' alt='Stupid cloud' /></a>
+
+It makes sense to me as a marketing tool to non-technical people: *&quot;this internet stuff is really expensive, complicated and often the source of problems, simplifying it is desirable&quot;*. But as a web developer who often finds himself administrating systems the idea of applications and infrastructure being as simple as a *cloud* is almost offensive.
+
+It really bothers me is when it's used in a technical context. See [The Rackspace Open *Cloud* with Public, Private and Hybrid *Clouds*](http://www.rackspace.com/cloud/). If I'm at the Rackspace website I'm in the market for off-site web hosting. I know what I want and need: a computer hooked up to the internet in a datacenter, not a cloud.
+
+It's a marketing term designed to make the complexity seem like magic. It's *my job* to make that that complexity seem like magic and I don't like it being treated as though it's as simple as purchasing your very own "hybrid cloud".

@@ -17,7 +17,7 @@ App.net's ideology matches mine:
 
 > We believe that advertising-supported social services are so consistently and inextricably at odds with the interests of users and developers that something must be done.
 
-I'm glad they're taking it on but I have two concerns.
+I'm glad they're taking it on but I have two concerns.<p></p>
 
 Firstly, why fund this using the Kickstarter model? It's a software project [already well underway](https://alpha.app.net/global/), I don't know why a huge capital base is required. They haven't taken a single dollar to this point and they'll be taking on paying customers once the services is live. Is the half million just to fund development between the alpha and launch? The Kickstarter-like fundraiser feels like a gimmicky cash grab to me. It's certainly been good for proving demand exists but there's a reason ongoing projects like these are against Kickstarter's terms of service.
 
