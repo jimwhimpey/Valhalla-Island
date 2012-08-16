@@ -4,7 +4,7 @@
   <title><![CDATA[Valhalla Island]]></title>
   <link href="http://valhallaisland.com//atom.xml" rel="self"/>
   <link href="http://valhallaisland.com//"/>
-  <updated>2012-08-14T10:57:55+10:00</updated>
+  <updated>2012-08-16T12:31:29+10:00</updated>
   <id>http://valhallaisland.com//</id>
   <author>
     <name><![CDATA[Jim Whimpey]]></name>
@@ -12,6 +12,52 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[Medium and Other Similar Startups]]></title>
+	    <link href="http://valhallaisland.com//blog/2012/medium-and-other-silicon-valley-startups/"/>
+    
+    <updated>2012-08-16T09:13:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/medium-and-other-silicon-valley-startups</id>
+		
+			<content type="html"><![CDATA[<p>I have a subconscious filter for buzz about new things. Most of the time it means I avoid wasting time checking out and thinking about things that disappear from the internet&#8217;s collective consciousness as quickly as they appear. The rest of the time I&#8217;m late to join in on something that&#8217;s good enough to survive and remain popular beyond the initial buzz. This is a minor issue; I was a year late to Twitter yet still there two years before it was truly at a used-by-celebrities-and-your-mum level of popular.</p>
+
+<p>Sometimes people whose opinions I value participate in the buzz around a new thing and I&#8217;m persuaded to check it out. <a href="https://twitter.com/mathowie/status/235872822948405248">That&#8217;s what happened with Medium</a>, a new <em>something</em> from Evan Williams.</p>
+
+<p>Timeline of events:</p>
+
+<ol>
+<li>Visit the <a href="https://medium.com/">the homepage</a>. I have no idea what this is.</li>
+<li>Edit the &#8220;Your text here&#8221; field. It does nothing.</li>
+<li>Replace background photo with my own. OK, good&#8230; Why?</li>
+<li>Final option: sign in with Twitter. &#8220;Medium will be able to <strong>post tweets as you</strong>&#8220;&#8230; Urgh! I click authorise anyway.</li>
+<li>Still nothing. Click the &#8220;What is this thing?&#8221; link.</li>
+</ol>
+
+
+<p>Not so much an explanation of what Medium is but rather <a href="https://medium.com/p/9e53ca408c48">a stream of consciousness</a> around publishing, the internet in general, human progress, the media and how Medium, while &#8220;Truth be told, we’re just starting the journey of figuring out what all that means&#8221;, is an evolutionary leap so easy and elegant to use that it&#8217;s not even available to the public yet.</p>
+
+<p>But what is Medium? Well, &#8220;Medium is designed to allow people to choose the level of contribution they prefer&#8221;. By this point it feels like they&#8217;re deliberately being opaque.</p>
+
+<p><a href="https://medium.com/c/7707024e442b">There</a> <a href="https://medium.com/c/b5bfa5abf32">are</a> <a href="https://medium.com/c/c0f2fa941b0e">some</a> <a href="https://medium.com/c/a6d45ba0e25b">examples</a> of Medium in use which gives the best clues yet of what it actually is. The concept seems to be ad-hoc blogs with multiple contributors and a voting system. Sounds like something that could potentially be <a href="http://www.reddit.com/">popular</a>.</p>
+
+<p>Here&#8217;s another incomprehensible product introduction, this time in video form from <a href="http://www.branch.com/">Branch</a>.</p>
+
+<p>It&#8217;s not clear what the service does nor what problem it&#8217;s trying to solve. In the case of these two, investigating to find an answer reveals that they&#8217;re very thin layers on top of existing technology or slight deviations from established ideas.</p>
+
+<p>As a counter example, here&#8217;s another new service launched recently: <a href="http://tos-dr.info/">Terms of Service; Didn&#8217;t Read</a>. What it does is obvious within seconds. The problem it solves is obvious. The problem is <em>worthwhile</em>.</p>
+
+<p>When I see stuff like Medium and Branch (and <a href="http://www.color.com/">Color</a> and <a href="https://path.com/">Path</a> and <a href="http://www.stamped.com/">Stamped</a> and I could go on) I&#8217;m immediately reminded of the top answer to the Quora question <a href="http://www.quora.com/Silicon-Valley/What-are-some-things-Id-be-shocked-to-learn-about-the-outside-world">Silicon Valley: What are some things I&#8217;d be shocked to learn about the outside world?</a>:</p>
+
+<blockquote><p>Most of Silicon Valley is focused on building products for the top 1% of the world&#8217;s population.  Most of the world needs solutions to problems we rarely talk about, in areas like health care, agricultural production, sustainable construction, citizen activism and empowerment, childhood education, affordable transportation, supply chain optimization, community solidarity and efficacy, etc.  And I&#8217;m not solely referring to base of the pyramid topics (like clean water access), either.  The average &#8220;middle class&#8221; citizen outside the US doesn&#8217;t have as much luxury to indulge in existential crisis and loneliness.</p></blockquote>
+
+<p>&#8220;How and where do I publish my thoughts&#8221; is a problem for a tiny minority of the world&#8217;s population. In 2012, the people who have that problem <em>and no solution</em> is a small sliver of that tiny minority. People looking for a slightly improved or slightly different way to publish their thoughts is an even smaller group.</p>
+
+<p>You don&#8217;t need to be eradicating HIV or developing drought-resistant corn to be doing worthwhile work and I&#8217;m not saying there&#8217;s no room for refinement or making things for small audiences. But if it&#8217;s difficult for me to decipher what it is your service does or work out what problem it solves (no matter how small) and you struggle to define it yourself, maybe there&#8217;s better ideas out there.</p>
+]]></content>
+		
+  </entry>
   
   <entry>
 		
@@ -507,25 +553,6 @@ venture capitalist rich.</p>
 
 <p>Tim went through this while dealing with other external stresses. His post is a great insight for non-programmers on the darker side of software development.</p>
  <a href="http://valhallaisland.com//blog/2012/tim-riley/">&#9875;</a>]]></content>
-		
-  </entry>
-  
-  <entry>
-		
-	    <title type="html"><![CDATA[Impressions]]></title>
-	    <link href="http://valhallaisland.com//blog/2012/no-title/"/>
-    
-    <updated>2012-04-01T08:31:00+10:00</updated>
-    <id>http://valhallaisland.com//blog/2012/no-title</id>
-		
-			<content type="html"><![CDATA[<p>Twelve years ago I first started using a computer for general school work, typing up assignments and the like. I was using Microsoft Word on Windows 95. The language of either Word or the system was set to US English rather than British English which resulted in many incorrectly red underlined words. In the early days Word&#8217;s list of known names for spellchecking purpose must have been much shorter because nearly every name would also get red underlined.</p>
-
-<p>It bothered me having something marked as wrong which I knew was right but Word had the ability to &#8220;Add word to dictionary&#8221; so that it was considered a correctly spelt word from then on. I was doing this a lot, too much it turned out. The last time I did it I got an error: &#8220;The custom learned words dictionary is full&#8221;.</p>
-
-<p>I don&#8217;t do it nearly as often any more as I know how to set my computer&#8217;s locale and many more names (including smart things like those from my contact list) are included in the spell checking dictionary.</p>
-
-<p>But when I do, even though I&#8217;m using an operating system made by a completely different company, even though I&#8217;m using different text editing or page layout software, even though such a limited was likely stamped out of that software many versions ago, even though it&#8217;s been <em>twelve years</em>, I still have a split second of hesitation before selecting the Learn spelling menu item.</p>
-]]></content>
 		
   </entry>
   
