@@ -1,0 +1,20 @@
+---
+layout: post
+title: "TextMate 2"
+date: 2012-08-28 17:40
+external-url: 
+---
+
+[Marco Arment](http://www.marco.org/2012/08/09/textmate-2-open-sourced) soon after the news [TextMate 2 went open source](http://blog.macromates.com/2012/textmate-2-at-github/):
+
+> But I suspect that it’s more likely that it will just get abandoned. TextMate 2 was just sent to retire on a farm upstate, kids.
+
+I didn't feel this way. Years of stagnant development is a stronger suggestion of abandonment than going open source. Odgaard silently toiling away obviously wasn't working and a change could only be for the positive.
+
+I've been using TextMate for over six years. Beside a web browser it is my most used application ever. It grew with me as I expanded my own bundles and modified the defaults to the point where TextMate without them is almost useless to me. I, [like Marco](http://www.marco.org/2012/08/10/next-text-editor), was disheartened by the lack of development and would occasionally trial alternatives, none of which lasted long. The truth was that even after five years without significant update TextMate was still my preferred tool. Nothing suited my workflow better, nothing was faster.
+
+When the TextMate 2 Alpha was released I was elated. After a few quickfire updates it was stable enough to switch to full time. There's nothing earth shattering in the 2 update but it doesn't need to be when the foundation has been so solid for so long.
+
+I met the open source news with indifference. Assuming future Mac OS compatibility I could have used TextMate *1.5* for another 5 years and the 2 alpha is even better.
+
+It turns out that a farm upstate is a productive environment for a text editor. Since the [source was posted to Github](https://github.com/textmate/textmate) updates have been rolling in regularly with [long release notes](http://cl.ly/image/1w2B013V0M37) full of substantial bug fixes and improvements. At this point in time I've never held more optimism for the future of my favourite text editor and favourite app.
