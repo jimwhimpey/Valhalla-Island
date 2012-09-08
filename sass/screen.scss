@@ -141,7 +141,11 @@
 				color: #999;
 				a { color: #999; text-decoration: none; border-bottom: none; }
 				a:hover {color: #999; border-bottom: 1px solid #111; }
-				span { font-size: 1em; }
+				span.perma { 
+					font-family: Helvetica, Arial, sans-serif;
+					font-size: 1em;
+					color: #333;	
+					}
 			}
 			blockquote {
 				margin: 0 0 15px 25px;
