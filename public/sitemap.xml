@@ -2503,8 +2503,12 @@
         <lastmod>2012-09-09T18:28:40+10:00</lastmod>
     </url>
     <url>
+        <loc>http://valhallaisland.com//blog/2012/raw-nerve/</loc>
+        <lastmod>2012-09-30T09:52:51+10:00</lastmod>
+    </url>
+    <url>
         <loc>http://valhallaisland.com//blog/archives/</loc>
-        <lastmod>2012-09-09T18:28:40+10:00</lastmod>
+        <lastmod>2012-09-30T09:52:51+10:00</lastmod>
     </url>
     <url>
         <loc>http://valhallaisland.com//history/</loc>
@@ -2512,6 +2516,6 @@
     </url>
     <url>
         <loc>http://valhallaisland.com//</loc>
-        <lastmod>2012-09-09T18:28:40+10:00</lastmod>
+        <lastmod>2012-09-30T09:52:51+10:00</lastmod>
     </url>
 </urlset>
