@@ -5,11 +5,11 @@ date: 2012-10-19 15:55
 external-url: 
 ---
 
-[Jack Dorsey](http://jacks.tumblr.com/post/33785796042/lets-reconsider-our-users):
+Jack Dorsey [thinks we should stop using the word "users"](http://jacks.tumblr.com/post/33785796042/lets-reconsider-our-users):
 
 > It’s time for our industry and discipline to reconsider the word “user.” We speak about “user-centric design”, “user benefit”, “user experience”, “active users”, and even “usernames.” While the intent is to consider people first, the result is a massive abstraction away from real problems people feel on a daily basis.
 
-I disagree and I don't think we should be getting our lessons on "real problems people feel on a daily basis" from the billionaire creator of *Twitter* and a credit card processor.
+I disagree. I have no problem with the terms "user-centric design", "active users" or "usernames". They're succinct and descriptive names with no inherent prejudice. And I don't know if the billionaire creator of *Twitter* is where we should be getting our lessons on "real problems people feel on a daily basis".
 
 Ross Floate thinks it's [a step in the right direction](http://floate.com.au/2012/10/empathy/):
 
@@ -31,7 +31,7 @@ John Gruber [brings some sense to the table](http://daringfireball.net/linked/20
 
 Right!
 
-Dorsey quotes the dictionary definition for the word user at the beginning of his post:
+Dorsey quotes the dictionary definition for the word at the beginning of his post:
 
 > A person who uses or operates something, esp. a computer or other machine.
 
