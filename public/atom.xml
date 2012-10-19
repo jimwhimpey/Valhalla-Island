@@ -4,7 +4,7 @@
   <title><![CDATA[Valhalla Island]]></title>
   <link href="http://valhallaisland.com//atom.xml" rel="self"/>
   <link href="http://valhallaisland.com//"/>
-  <updated>2012-09-30T09:53:48+10:00</updated>
+  <updated>2012-10-19T16:43:09+10:00</updated>
   <id>http://valhallaisland.com//</id>
   <author>
     <name><![CDATA[Jim Whimpey]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+		
+	    <title type="html"><![CDATA[Just a Name]]></title>
+	    <link href="http://valhallaisland.com//blog/2012/names/"/>
+    
+    <updated>2012-10-19T15:55:00+10:00</updated>
+    <id>http://valhallaisland.com//blog/2012/names</id>
+		
+			<content type="html"><![CDATA[<p><a href="http://jacks.tumblr.com/post/33785796042/lets-reconsider-our-users">Jack Dorsey</a>:</p>
+
+<blockquote><p>It’s time for our industry and discipline to reconsider the word “user.” We speak about “user-centric design”, “user benefit”, “user experience”, “active users”, and even “usernames.” While the intent is to consider people first, the result is a massive abstraction away from real problems people feel on a daily basis.</p></blockquote>
+
+<p>I disagree and I don&#8217;t think we should be getting our lessons on &#8220;real problems people feel on a daily basis&#8221; from the billionaire creator of <em>Twitter</em> and a credit card processor.</p>
+
+<p>Ross Floate thinks it&#8217;s <a href="http://floate.com.au/2012/10/empathy/">a step in the right direction</a>:</p>
+
+<blockquote><p>‘Users’ is a terrible term. Designers and developers employ the word ‘users’ when they’re thinking of the idiots they have to pre-empt, work around, and otherwise fix things for. ‘Users’ is a hostile label, spat out by people who don’t shave below their jawline. I’m happy to see it go.</p></blockquote>
+
+<p>Again I disagree. There&#8217;s nothing about the word &#8220;users&#8221; which inherently implies idiot. If you think people who use your product are idiots you have to &#8220;pre-empt, work around, and otherwise fix things for&#8221; I don&#8217;t know how <em>calling them</em> something else changes anything.</p>
+
+<p>You&#8217;re already hostile, you&#8217;re already in the wrong mindset. Just as convincing a racist stop using the N word doesn&#8217;t make them any less racist.</p>
+
+<p>Marco Arment also <a href="http://www.marco.org/2012/10/18/jack-users">dislikes the word</a>:</p>
+
+<blockquote><p>I’ve had similar thoughts for a long time, and I also find that the term “user” is slightly disrespectful and evokes a flippant attitude from service operators.</p></blockquote>
+
+<p>What!? It&#8217;s hard to believe he&#8217;s talking about the word user.</p>
+
+<p>John Gruber <a href="http://daringfireball.net/linked/2012/10/18/winer-users">brings some sense to the table</a>:</p>
+
+<blockquote><p>The bottom line is how you treat them, how much respect you have for them — not what word you use to describe the people who use your product or service.</p></blockquote>
+
+<p>Right!</p>
+
+<p>Dorsey quotes the dictionary definition for the word user at the beginning of his post:</p>
+
+<blockquote><p>A person who uses or operates something, esp. a computer or other machine.</p></blockquote>
+
+<p>To me that sounds like a damn accurate description within the context of software and product development. If you feel user is a derogatory or disrespectful name that&#8217;s nothing but your own biases and negative mindset at play.</p>
+]]></content>
+		
+  </entry>
   
   <entry>
 		
@@ -568,21 +611,6 @@
 
 <p>You should never shy away from something because it&#8217;ll take a lot of time and you should spend a great deal of time on things you already know are good because they&#8217;ll only get better.</p>
 ]]></content>
-		
-  </entry>
-  
-  <entry>
-		
-	    <title type="html"><![CDATA[Escaping from North Korea &rarr;]]></title>
-	    <link href="http://www.guardian.co.uk/books/2012/mar/16/escape-north-korea-prison-camp?CMP=twt_gu"/>
-    
-    <updated>2012-05-26T18:56:00+10:00</updated>
-    <id>http://valhallaisland.com//blog/2012/north-korea-escape</id>
-		
-			<content type="html"><![CDATA[<p>I recently read Orwell&#8217;s 1984 for the first time. It was closely followed by this article about a young man born into a North Korean prison camp who is one of the few who have ever escaped. The similarities between Oceania and the prison camp blew me away. The forced labour, the extreme scarcity of resources, the culture of whistle blowing, the sexual repression and the torture were all the same.</p>
-
-<p>As other dictatorships have fallen in recent times I look forward to the day the same happens in North Korea.</p>
- <a href="http://valhallaisland.com//blog/2012/north-korea-escape/">&#9875;</a>]]></content>
 		
   </entry>
   

@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Just a Name"
+date: 2012-10-19 15:55
+external-url: 
+---
+
+[Jack Dorsey](http://jacks.tumblr.com/post/33785796042/lets-reconsider-our-users):
+
+> It’s time for our industry and discipline to reconsider the word “user.” We speak about “user-centric design”, “user benefit”, “user experience”, “active users”, and even “usernames.” While the intent is to consider people first, the result is a massive abstraction away from real problems people feel on a daily basis.
+
+I disagree and I don't think we should be getting our lessons on "real problems people feel on a daily basis" from the billionaire creator of *Twitter* and a credit card processor.
+
+Ross Floate thinks it's [a step in the right direction](http://floate.com.au/2012/10/empathy/):
+
+> ‘Users’ is a terrible term. Designers and developers employ the word ‘users’ when they’re thinking of the idiots they have to pre-empt, work around, and otherwise fix things for. ‘Users’ is a hostile label, spat out by people who don’t shave below their jawline. I’m happy to see it go.
+
+Again I disagree. There's nothing about the word "users" which inherently implies idiot. If you think people who use your product are idiots you have to "pre-empt, work around, and otherwise fix things for" I don't know how *calling them* something else changes anything. 
+
+You're already hostile, you're already in the wrong mindset. Just as convincing a racist stop using the N word doesn't make them any less racist.
+
+Marco Arment also [dislikes the word](http://www.marco.org/2012/10/18/jack-users):
+
+> I’ve had similar thoughts for a long time, and I also find that the term “user” is slightly disrespectful and evokes a flippant attitude from service operators.
+
+What!? It's hard to believe he's talking about the word user.
+
+John Gruber [brings some sense to the table](http://daringfireball.net/linked/2012/10/18/winer-users):
+
+> The bottom line is how you treat them, how much respect you have for them — not what word you use to describe the people who use your product or service.
+
+Right!
+
+Dorsey quotes the dictionary definition for the word user at the beginning of his post:
+
+> A person who uses or operates something, esp. a computer or other machine.
+
+To me that sounds like a damn accurate description within the context of software and product development. If you feel user is a derogatory or disrespectful name that's nothing but your own biases and negative mindset at play.
