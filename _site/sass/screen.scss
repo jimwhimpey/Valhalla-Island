@@ -1,0 +1,244 @@
+/*  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+			RESET STYLES
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+	
+	html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-weight:inherit;font-style:inherit;font-size:100%;font-family:inherit;vertical-align:baseline}:focus{outline:0}body{line-height:1;color:black;background:white}ol,ul{list-style:none}table{border-collapse:separate;border-spacing:0}caption,th,td{text-align:left;font-weight:normal}blockquote:before,blockquote:after,q:before,q:after{content:""}blockquote,q{quotes:""""}
+	
+
+/*  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+			BODY, WRAPPINGS, ANCHORS, anything sitewide
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+	
+	body { background: #F5F5F5; }
+	
+	  #main {
+			width: 846px;
+			overflow: hidden;
+			margin: 50px auto;
+			padding: 0 50px;
+			}
+			
+			
+/*  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+			FONT FACE EMBEDDING
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+	
+	@font-face { font-family: "Lavanderia"; src: url('http://static.jimwhimpey.com/fonts/Lavanderia-Sturdy.otf'); }
+
+
+/*  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+			SIDEBAR
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+	
+	aside {
+	  width: 300px;
+	  float: right;
+	  border-top: 1px dotted #999;
+	  border-bottom: 1px dotted #999;
+	  padding: 0 0 30px 0;
+		a { color: #2D7D06; text-decoration: none; border-bottom: 1px solid #246605; }
+		a:hover { color: #246605; }
+	  h1 {
+			font-family: "Lavanderia", Helvetica, sans-serif;
+			font-size: 50px;
+			margin: 10px 0 15px 0;
+			height: 80px;
+			line-height: 120px;
+			text-shadow: 0 2px 0 #fff;
+			a { border-bottom: none; -webkit-transition: all 0.5s; }
+			a:hover { color: #359006; }
+		}
+	  .blurb {
+			font: normal 16px/1.6em 'PT Serif', Georgia, serif;
+			margin: 0 0 15px 0;
+			color: #3A2214;
+		}
+		.search { 
+			margin: 10px 0 30px 0;
+			input[type=text] {
+				border: 1px solid #CECECE;
+				padding: 5px;
+				width: 160px;
+				-webkit-border-radius: 4px;
+				-moz-border-radius: 4px;
+				border-radius: 4px;
+				color: #CECECE;
+			}
+		}
+		h2 {
+			font-family: 'PT Serif', Georgia, serif;
+			font-weight: bold;
+			font-size: 16px;
+			margin: 0 0 16px 0;
+			line-height: 1.5em;
+		}
+		ul {
+			margin: 0 0 60px 0;
+			li {
+				font-family: 'PT Serif', Georgia, serif;
+				font-size: 15px;
+				margin: 0 0 10px 0;
+				a { color: #A1A1A1; border-bottom: 1px solid #787878; }
+				a:hover { color: #787878; }
+			}
+		}
+		.credit {
+			margin: 0 0 10px 0;
+			font-size: 16px;
+			color: #999;
+			a { color: #A1A1A1; border-bottom: 1px solid #787878; }
+			a:hover { color: #787878; }
+		}
+	}
+	
+
+/*  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+			POSTS
+		++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+	
+	#content { 
+	  width: 504px;
+	  float: left;
+	  border-top: 1px dotted #999;
+	  padding: 30px 0 0 0;
+	  }
+		
+		@mixin links {
+		  color: #007ED5;
+			text-decoration: none;
+			border-bottom: 1px solid #0063A8;
+			&:hover { color: #0063A8; }
+		}
+	
+	  article {
+		  width: 100%;
+		  padding: 0 0 16px 0;
+		  margin: 0 0 30px 0;
+		  border-bottom: 1px dotted #999;
+		  font-family: 'PT Serif', Georgia, serif;
+		  position: relative;
+		  overflow: hidden;
+			a { @include links; }
+			strong { font-family: 'PT Serif', Georgia, serif; font-weight: bold; }
+			em { font-family: 'PT Serif', Georgia, serif; font-style: italic; }
+			h2 {
+				font-family: 'PT Serif', Georgia, serif;
+				font-weight: bold;
+				font-size: 20px;
+				margin: 0 0 16px 0;
+				line-height: 1.5em;
+			}
+			p, ul, ol, blockquote, .source {
+				font-size: 17px;
+				line-height: 1.6em;
+				color: #111;
+				margin: 0 0 14px 0;
+			}
+			.date {
+				font-family: Georgia, serif;
+				font-weight: normal;
+				font-size: 16px;
+				color: #999;
+				a { color: #999; text-decoration: none; border-bottom: none; }
+				a:hover {color: #999; border-bottom: 1px solid #111; }
+				span.perma { 
+					font-family: Helvetica, Arial, sans-serif;
+					font-size: 1em;
+					color: #333;	
+					}
+			}
+			blockquote {
+				margin: 0 0 15px 25px;
+				padding: 0 0 0 15px;
+				border-left: 1px solid #999;
+				font-family: 'PT Serif', Georgia, serif;
+				font-style: italic;
+				color: #666;
+				blockquote p { color: #666; }
+			}
+		  h3 {
+		 		font-size: 17px;
+				font-weight: bold;
+		 		font-family: 'PT Serif', Georgia, serif;
+		 		text-transform: uppercase;
+		 		letter-spacing: 0.1em;
+		 		margin: 26px 0 12px 0;
+		 	}
+			ul, ol { 
+				margin: 0 0 12px 35px;
+				li { margin: 0 0 10px 0; }
+			}
+			ul { list-style: disc; }
+			ol { list-style-type: decimal; }
+			code { font-size: 0.8em; font-family: Monaco, Consolas, Courier, monospace; }
+			a img, img {
+				display: block;
+				border: 2px solid black;
+				&:hover { border: 2px solid #666; }
+			}
+			a img.no-border ,img.no-border {			
+				border: none;
+				&:hover { border: none; }
+			}
+		}
+		
+
+/*  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+			POST CONTACT
+		++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+			
+	.contact {
+		width: 100%;
+		padding: 0 0 30px 0;
+		margin: 0 0 30px 0;
+		border-bottom: 1px dotted #999;
+		line-height: 1.5em;
+		font-family: 'PT Serif', Georgia, serif;
+		font-size: 15px;
+		color: #777;
+		a { @include links; }
+		p:first-child { margin-bottom: 5px; }
+		}		
+	
+
+/*  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+		POSTS — NAVIGATION
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+	
+	.pagination {
+		height: 20px;
+		margin: 40px 0 50px 0;
+		position: relative;
+		p {
+			text-align: center;
+			font-size: 16px;
+			font-family: 'PT Serif', Georgia, serif;
+		}
+		a {
+			@include links;
+			position: absolute;
+			display: block;
+			width: 90px;
+			font-size: 17px;
+			font-family: 'PT Serif', Georgia, serif;
+			font-weight: bold;
+			border-bottom: none;
+			top: 0;
+		}
+		.next { right: 0; text-align: right; }
+		.prev { left: 0; text-align: left; }
+		.archive {
+			left: 152px;
+			display: block;
+			text-align: center;
+			width: 200px;
+			margin: 0 auto;
+		}
+	}
+
+
+/*  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+		IMPORTS
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+	@import "mobile";

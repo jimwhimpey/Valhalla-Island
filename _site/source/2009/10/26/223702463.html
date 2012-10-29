@@ -1,0 +1,67 @@
+<p>I have HD video on my computer. I have an Xbox 360 capable of playing video connected to my HDTV. I even have an <a href="http://www.nullriver.com/products/connect360">application</a> that will stream video from my computer to my Xbox over a local network. You&#8217;d think getting HD video to stream from your computer to your Xbox would be easy. It&#8217;s not and I&#8217;m loathed to spend money on another device. I&#8217;ve spent this last weekend trying to make it happen. I found a process that&#8217;s not ideal but it&#8217;ll do.</p>
+
+
+
+<h3>The Problem</h3>
+
+
+
+<ul><li>The Xbox will not play video in the <a href="http://en.wikipedia.org/wiki/Matroska">Matroska</a> container, the most common format for HD video distribution.</li>
+
+<li>MKV video can be converted to a format the Xbox can read but it can take days of computing power and produce massive files.</li>
+
+<li>Transferring files via physical hard disk is slow and a pain in the ass.</li>
+
+</ul><h3>The Good News</h3>
+
+
+
+<p>The Xbox can play H264 video, which is the format of the video inside the Matroska container, it&#8217;s the audio format that the Xbox doesn&#8217;t like. Using Quicktime we&#8217;re able to pass through the video, convert the audio to something the Xbox likes and package it up in an MPEG-4 container. The video is identical, the file size equivalent and the process only takes 10–15 minutes.</p>
+
+
+
+<h3>How It&#8217;s Done</h3>
+
+
+
+<ol><li>Open the MKV video in QuickTime Pro 7. QuickTime X will not do it (exactly why requires a <a href="http://arstechnica.com/apple/reviews/2009/08/mac-os-x-10-6.ars/16">long, detailed explanation</a>).</li>
+
+<li>Let the loading bar totally buffer, it takes 5-10 minutes.</li>
+
+<li>File → Export</li>
+
+<li>Choose Movie to MPEG-4 in the drop down.</li>
+
+<li>Click Options.</li>
+
+<li>Choose MP4 from the File Format drop down, <em>not</em> MP4 (ISMA).</li>
+
+<li>Choose Pass Through from the Video Format drop down. If Pass Through is greyed out go back to the video, Window → Show Movie Properties, and deselect the subtitles channel. Try again.</li>
+
+<li>On the Audio tab choose AAC-LC (Music) from the Audio Format drop down. Fill the rest with whatever you like, I use 160kbps, Mono, 44.100khz and &#8220;Best&#8221;.</li>
+
+<li>Click OK, export the file.</li>
+
+<li>It should take 10–15 minutes depending on your processor power, if it&#8217;s taking hours you&#8217;re converting the video too and doing it wrong.</li>
+
+</ol><h3>The Bad News</h3>
+
+
+
+<p>The Xbox refuses to play any file too big. Too big seems weigh in at something around 4GB but I&#8217;ve managed to play files a little larger than 4GB. The totally useless error message the Xbox displays when it refuses to play these files makes it seem your video is in the wrong format, it&#8217;s not, cut the video a little shorter and it plays fine.</p>
+
+
+
+<p>To get around this insane limitation I&#8217;ve had success using <a href="http://likelysoft.com/splitfuse/">SplitFuse</a> to break a movie up into two, less-than-4GB parts. It takes another 5 or 10 minutes and is another step in the already too long chain but it works.</p>
+
+
+
+<h3>Notes</h3>
+
+
+
+<p>Steady playback is very hit or miss for me. Sometimes I&#8217;ll go an hour with no hiccups, other times video won&#8217;t play 20 seconds without stalling. Pausing for a time seems to help but not always. I am streaming with an ordinary router over the G protocol between rooms, so the connection is far from the fastest a local network could be. I&#8217;m sure playback would be much more reliable through an Airport Extreme or a wired network.</p>
+
+
+
+<p>The process is long, impossible to automate and no where near as convenient or reliable as downloading iTunes content to an Apple TV. But you already have a device capable of playing HD content through your TV and the result at the end of it all is fantastic.</p>
