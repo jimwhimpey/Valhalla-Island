@@ -11,7 +11,7 @@ It came while I was [on holiday in France](http://www.flickr.com/photos/jimwhimp
 
 Getting into and working in the United States isn't easy and it was a long process. I used the lead up to exhaust my leave, sell almost every possession and spend a lot of time with friends and family.
 
-Selling or giving away all my stuff wasn't the liberating experience I thought it might be. At the time and now that I'm settling here I've realised again that [I'm not a minimalist](http://localhost:4000/blog/2009/160357037).
+Selling or giving away all my stuff wasn't the liberating experience I thought it might be. At the time and now that I'm settling here I've realised again that [I'm not a minimalist](/blog/2009/160357037).
 
 The process hasn't daunted me at all which I credit to barely missing a day cycling. Bike commuting, racing and general riding is huge in San Francisco and the best places to do it are beautiful and accessible. The cycling scene is very different to that in Brisbane and my urge is to recreate what I had back home but I'm fighting that ill-advised goal.
 
