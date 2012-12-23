@@ -6,6 +6,8 @@ date: 2012-02-12 12:33
 
 The format for this post has been shamelessly stolen from [Jason Kottke's about page](http://kottke.org/about/) at his venerable weblog, Kottke.org.
 
+**2012**: Rode my bike in the French Alps. Sold everything I owned and moved across the Pacific to work at Flickr in San Francisco. Big year.
+
 **2011**: Fell head over heels in love with Anne. Moved into my own place. Rode and raced my bike a lot. Had problems with Anne resulting in a break up which, looking back, was a mistake. Wallowed in inner turmoil.
 
 **2010**: I go through the motions for six months: riding my bike, spending almost all I earn on inconsequential things. I break up with Kristin. My Mum runs a disastrous campaign for parliament in the federal election. I win some B grade bike races, start racing A grade, get stronger and win most improved of the year. My bike accident claim settles, I wonder what to do with the money.
