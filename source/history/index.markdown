@@ -6,7 +6,7 @@ date: 2012-02-12 12:33
 
 The format for this post has been shamelessly stolen from [Jason Kottke's about page](http://kottke.org/about/) at his venerable weblog, Kottke.org.
 
-**2012**: Rode my bike in the French Alps. Sold everything I owned and moved across the Pacific to work at Flickr in San Francisco. Big year.
+**2012**: Rode my bike in the French Alps. Sold everything I owned and moved across the Pacific to work at Flickr in San Francisco. A big year.
 
 **2011**: Fell head over heels in love with Anne. Moved into my own place. Rode and raced my bike a lot. Had problems with Anne resulting in a break up which, looking back, was a mistake. Wallowed in inner turmoil.
 
