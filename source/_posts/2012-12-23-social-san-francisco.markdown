@@ -11,4 +11,4 @@ Mike Davidson recently moved from Seattle to take a job [leading Twitter's desig
 
 > The effect isn’t dramatic, but I notice it almost daily. More people make eye contact, more people say hello, and more people go out at night. It’s a nice change of pace.
 
-I've noticed and have been enjoying the same thing. Without consciously trying I've struck up conversations with people on buses, in elevators, at grocery checkouts and on my bike while waiting for the lights to change. Back home these kinds of interactions would be actively avoided or shut down as quickly as possible. I like it better here.
+I've noticed and have been enjoying the same thing. Witahout consciously trying I've struck up conversations with people on buses, in elevators, at grocery checkouts and on my bike while waiting for the lights to change. Back home these kinds of interactions would be actively avoided or shut down as quickly as possible. I like it better here.

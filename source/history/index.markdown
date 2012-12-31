@@ -4,15 +4,13 @@ title: "A Concise History of my Life"
 date: 2012-02-12 12:33
 ---
 
-The format for this post has been shamelessly stolen from [Jason Kottke's about page](http://kottke.org/about/) at his venerable weblog, Kottke.org.
+**2012**: Rode my bike in the French Alps. Sold or gave away everything I owned and moved across the Pacific to work at Flickr in San Francisco. A big year.
 
-**2012**: Rode my bike in the French Alps. Sold everything I owned and moved across the Pacific to work at Flickr in San Francisco. A big year.
+**2011**: Fell head over heels in love with Anne. Moved into my own place. Rode and raced my bike a lot. Broke up with Anne. Wallowed in inner turmoil. I become vegan.
 
-**2011**: Fell head over heels in love with Anne. Moved into my own place. Rode and raced my bike a lot. Had problems with Anne resulting in a break up which, looking back, was a mistake. Wallowed in inner turmoil.
+**2010**: Bike riding. Spending almost all I earn on inconsequential things. I break up with Kristin. I win some B grade bike races, start racing A grade.
 
-**2010**: I go through the motions for six months: riding my bike, spending almost all I earn on inconsequential things. I break up with Kristin. My Mum runs a disastrous campaign for parliament in the federal election. I win some B grade bike races, start racing A grade, get stronger and win most improved of the year. My bike accident claim settles, I wonder what to do with the money.
-
-**2009**: I get a great full time job as a web developer at the national broadcaster. With more money than I've ever had in my life I move out of home in the suburbs and into an inner-city suburb flat with Kristin. I become vegetarian. I get hit by a car while training on my bike, break 20 bones including multiple vertebrae. Recovery is slow and steady but I return to the bike stronger than before.
+**2009**: I get a great job as a web developer at the national broadcaster. I move out of home in the suburbs and into an inner-city suburb flat with Kristin. I become vegetarian. I get hit by a car while training on my bike, break 20 bones including multiple vertebrae. I recover.
 
 **2008**: To make up for the time lost while in Canada and to finish my degree in 3 years I take a maximum course load. All my time is spent studying. University still fails to impress me. I meet and fall for Kristin. I graduate with above average but not spectacular grades. I take up triathlon and sell my car.
 
