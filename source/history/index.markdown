@@ -36,7 +36,7 @@ date: 2012-02-12 12:33
 
 **1993**: Preschool. Making buildings out of blocks, looking after the preschool's rabbit.
 
-**1992**: Kindergarten. Loving life. 
+**1992**: Kindergarten.
 
 **1991**: Hanging out with my baby sister. Playing with our two dogs. Both of which are *shot* (with a gun) in our backyard. Both survive. One is killed by a car not long later. The other leads a long, healthy life.
 
