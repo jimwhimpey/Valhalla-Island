@@ -734,7 +734,7 @@
     </url>
     <url>
         <loc>http://valhallaisland.com//blog/2009/141205452/</loc>
-        <lastmod>2012-10-18T22:51:03-07:00</lastmod>
+        <lastmod>2013-03-21T21:32:32-07:00</lastmod>
     </url>
     <url>
         <loc>http://valhallaisland.com//blog/2009/141301023/</loc>
@@ -2541,8 +2541,12 @@
         <lastmod>2013-02-07T19:13:18-08:00</lastmod>
     </url>
     <url>
+        <loc>http://valhallaisland.com//blog/2013/remembering/</loc>
+        <lastmod>2013-03-22T08:24:20-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://valhallaisland.com//blog/archives/</loc>
-        <lastmod>2013-02-07T19:13:18-08:00</lastmod>
+        <lastmod>2013-03-22T08:24:20-07:00</lastmod>
     </url>
     <url>
         <loc>http://valhallaisland.com//history/</loc>
@@ -2550,6 +2554,6 @@
     </url>
     <url>
         <loc>http://valhallaisland.com//</loc>
-        <lastmod>2013-02-07T19:13:18-08:00</lastmod>
+        <lastmod>2013-03-22T08:24:20-07:00</lastmod>
     </url>
 </urlset>
