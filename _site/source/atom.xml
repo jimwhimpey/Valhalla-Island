@@ -4,7 +4,7 @@
   <title><![CDATA[]]></title>
   <link href="/atom.xml" rel="self"/>
   <link href="/"/>
-  <updated>2013-03-22T08:24:29-07:00</updated>
+  <updated>2013-06-13T21:15:31-07:00</updated>
   <id>/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -15,13 +15,33 @@
   
   <entry>
 		
+	    <title type="html"><![CDATA[20 Somethings &rarr;]]></title>
+	    <link href="http://www.ted.com/talks/meg_jay_why_30_is_not_the_new_20.html"/>
+    
+    <updated>2013-06-12T19:17:00-07:00</updated>
+    <id>/source/2013/06/12/20-somethings</id>
+		
+			<content type="html"><![CDATA[<p>Meg Jay makes a great case for not wasting your 20s.</p>
+
+<p>I&#8217;ve seen a lot of 20s in an endless cycle of aimlessly traveling, working terrible jobs, living with their parents and generally fucking around. Often the travel is in the name of self discovery and development the with terrible jobs and staying at home in support of that. But it&#8217;s not self discovery, so often it&#8217;s no more than getting drunk and high with the same type of person in different parts of the world.</p>
+
+<p>The opposite behavior is no better. Working every waking our in the name of career development or in the hopes of getting your startup bought may seem more responsible but are equally wasteful of such potentially fulfilling and foundation building period.</p>
+
+<p>Friends sticking with unsatisfying and obviously not working relationships is also common. The best advice I&#8217;ve received is to not waste time dating shitheads, bite the bullet and end it. You&#8217;re not just wasting time but you&#8217;re foregoing opportunities every day.</p>
+
+<p>The same goes for couples in great relationships who are putting off shared life goals in the name of &#8220;things they haven&#8217;t done yet&#8221;. Stop wasting time. There&#8217;s nothing you can&#8217;t do married that you could have done in a happy long term relationship.</p> <a href="/source/2013/06/12/20-somethings.html">&#9875;</a>]]></content>
+		
+  </entry>
+  
+  <entry>
+		
 	    <title type="html"><![CDATA[Remembering]]></title>
 	    <link href="/source/2013/03/22/remembering.html"/>
     
     <updated>2013-03-22T08:12:00-07:00</updated>
     <id>/source/2013/03/22/remembering</id>
 		
-			<content type="html"><![CDATA[<p>I was talking with a friend yesterday about sentimentality. She told me about a Journey concert t-shirt she&#8217;s kept from years ago because it reminds her of a fun night so she keeps it. I don&#8217;t share this mindset at all and it reminded my of a <a href='http://www.bigcontrarian.com/2010/07/06/pictures/'>great post by Jack Shedd almost three years ago</a> about photographs:</p>
+			<content type="html"><![CDATA[<p>I was talking with a friend yesterday about sentimentality. She told me about a Journey concert t-shirt she&#8217;s kept from years ago because it reminds her of a fun night. I don&#8217;t share this mindset at all and it reminded my of a <a href='http://www.bigcontrarian.com/2010/07/06/pictures/'>great post by Jack Shedd written almost three years ago</a> about photographs:</p>
 
 <blockquote>
 <p>I don’t want to stare at some photo of me at 21 when I’m 50 and contemplate everything I was, or could have been. I don’t want to have to drown in partial truths, grasping at a falling memory to paint in details. I’d rather either remember, or not. Rather know, or forget.</p>
@@ -500,7 +520,7 @@
     <id>/source/2012/08/13/the-cloud</id>
 		
 			<content type="html"><![CDATA[<p>This image is used as part of <a href='http://australia.emc.com/microsites/cloud/cloud.htm?pid=home-small-cloudtransformsit-230212'>EMC&#8217;s</a> marketing, often with the tag line &#34;cloud transforms IT&#34;.</p>
-<a href='http://static.jimwhimpey.com/blog/Stupid-cloud-large.jpeg'><img alt='Stupid cloud' src='http://static.jimwhimpey.com/blog/Stupid-cloud-small.jpeg' /></a>
+<a href='http://static.jimwhimpey.com/blog/Stupid-cloud-large.jpeg'><img src='http://static.jimwhimpey.com/blog/Stupid-cloud-small.jpeg' alt='Stupid cloud' /></a>
 <p>It makes sense to me as a marketing tool to non-technical people: <em>&#34;this internet stuff is really expensive, complicated and often the source of problems, simplifying it is desirable&#34;</em>. But as a web developer who often finds himself administrating systems the idea of applications and infrastructure being as simple as a <em>cloud</em> is almost offensive.</p>
 
 <p>It really bothers me is when it&#8217;s used in a technical context. See <a href='http://www.rackspace.com/cloud/'>The Rackspace Open <em>Cloud</em> with Public, Private and Hybrid <em>Clouds</em></a>. If I&#8217;m at the Rackspace website I&#8217;m in the market for off-site web hosting. I know what I want and need: a computer hooked up to the internet in a datacenter, not a cloud.</p>
@@ -570,7 +590,7 @@
 <p>While I was lucky to get a free set of speakers, the exact same pair can be found second hand <a href='http://www.gumtree.com.au/s-ad/bibra-lake/audio/philips-ak285-30-speakers-50-watts-/1001859758'>on Gumtree for $80</a>. Similar sets come up on Ebay all the time but even a nice set of new passive bookshelf speakers <a href='http://www.amazon.com/s/ref=sr_nr_p_36_2?rh=n%3A172282%2Cn%3A%21493964%2Cn%3A667846011%2Cn%3A3236449011%2Cn%3A172563%2Ck%3Abookshelf+speakers%2Cp_36%3A1253505011&amp;bbn=172563&amp;keywords=bookshelf+speakers&amp;ie=UTF8&amp;qid=1344507135&amp;rnid=386442011'>don&#8217;t cost a great deal</a>.</p>
 
 <h3 id='the_interface'>The Interface</h3>
-<a href='http://static.jimwhimpey.com/blog/Home-hifi-setup-large.png'><img alt='Home hifi setup' src='http://static.jimwhimpey.com/blog/Home-hifi-setup-small.png' /></a>
+<a href='http://static.jimwhimpey.com/blog/Home-hifi-setup-large.png'><img src='http://static.jimwhimpey.com/blog/Home-hifi-setup-small.png' alt='Home hifi setup' /></a>
 <p>Any device or computer running iOS or Mac OS connected to your wireless network can stream music to the Airport Express attached to the amplifier using the magic of <a href='http://www.apple.com/itunes/airplay/'>Airplay</a>. That means you can use iTunes, the great Music apps on your iOS device, the <a href='http://itunes.apple.com/au/app/remote/id284417350?mt=8'>iOS Remote app</a> playing music from your computer or <em>any other audio producing app</em> (including YouTube, Spotify, Rdio) to wirelessly send audio to your hifi setup.</p>
 
 <p>With my full music collection on my computer most commonly I&#8217;ll use the Remote app on my iPhone or iPad to select music on my computer which is played through my hifi system using Airplay. When people see me do this it blows their minds.</p>
@@ -598,30 +618,6 @@
 </blockquote>
 
 <p>A subset of the world&#8217;s mass murderers also didn&#8217;t drink a litre of beetroot juice for breakfast. If you don&#8217;t drink a litre of beetroot juice for breakfast &#8220;some&#8221; &#8220;experts&#8221; &#8220;might&#8221; think that you &#8220;could be&#8221; a &#8220;psychopath&#8221;.</p>]]></content>
-		
-  </entry>
-  
-  <entry>
-		
-	    <title type="html"><![CDATA[Healthcare]]></title>
-	    <link href="/source/2012/08/08/healthcare.html"/>
-    
-    <updated>2012-08-08T16:29:00-07:00</updated>
-    <id>/source/2012/08/08/healthcare</id>
-		
-			<content type="html"><![CDATA[<p><a href='http://log.scifihifi.com/post/26127441140/i-still-know-scientists-programmers-designers'>Buzz Andersen</a>:</p>
-
-<blockquote>
-<p>I simply went without health insurance for awhile to finish Birdfeed (it’s shockingly expensive in New York State—far more even than, say, California), and I know a surprising number of my peers in the indie Mac/iOS community have done the same thing at various points. And we’re the crazy ones. I guarantee you a lot of people are too scared by the cost of health care to even consider starting their own businesses.</p>
-</blockquote>
-
-<p>Having been born and grown up in <a href='http://en.wikipedia.org/wiki/Australia'>a country</a> that provides free healthcare to all its citizens, having seen the care provided to almost everyone I know and <a href='http://valhallaisland.com/blog/2009/141205452/'>myself personally</a> (warning: a little gore) over the years, it is difficult for me to even comprehend the idea of going without health insurance in the USA.</p>
-
-<p>If I understand the situation correctly, when a US citizen gets sick or injured without insurance, they have a choice between getting zero treatment, and therefore potential death or lifetime disability, or complete financial ruin.</p>
-
-<p>Even if they have insurance, the insurance provider is a huge corporation who&#8217;s profits depend on <em>not providing coverage</em>.</p>
-
-<p>I still can&#8217;t fathom it.</p>]]></content>
 		
   </entry>
   
