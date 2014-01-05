@@ -4,6 +4,8 @@ title: "A Concise History of my Life"
 date: 2012-02-12 12:33
 ---
 
+**2013**: In San Francisco I meet Jess, the girl I will marry. I start the San Francisco Cycling Club. The best year yet.
+
 **2012**: Rode my bike in the French Alps. Sold or gave away everything I owned and moved across the Pacific to work at Flickr in San Francisco. A big year.
 
 **2011**: Fell head over heels in love with Anne. Moved into my own place. Rode and raced my bike a lot. Broke up with Anne. Wallowed in inner turmoil. I become vegan.
